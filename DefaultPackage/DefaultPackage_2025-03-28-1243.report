@@ -2,14 +2,14 @@
     "Summary": {
         "YooVersion": "2.3.6",
         "UnityVersion": "2021.3.32f1",
-        "BuildDate": "2025/3/28 20:41:36",
+        "BuildDate": "2025/3/28 20:43:25",
         "BuildSeconds": 1,
         "BuildTarget": 19,
         "BuildPipeline": "BuiltinBuildPipeline",
         "BuildBundleType": 2,
         "BuildPackageName": "DefaultPackage",
-        "BuildPackageVersion": "2025-03-28-1241",
-        "BuildPackageNote": "2025/3/28 20:41:34",
+        "BuildPackageVersion": "2025-03-28-1243",
+        "BuildPackageNote": "2025/3/28 20:43:24",
         "UniqueBundleName": false,
         "EnableAddressable": true,
         "LocationToLower": false,
@@ -33,7 +33,7 @@
         "AssetFileTotalCount": 7,
         "MainAssetTotalCount": 7,
         "AllBundleTotalCount": 1,
-        "AllBundleTotalSize": 47458,
+        "AllBundleTotalSize": 47622,
         "EncryptedBundleTotalCount": 0,
         "EncryptedBundleTotalSize": 0
     },
@@ -44,7 +44,7 @@
             "AssetGUID": "aa66a2a3274c57a4d895f78f41615313",
             "AssetTags": [],
             "MainBundleName": "assets_myassets_prefabs.bundle",
-            "MainBundleSize": 47458,
+            "MainBundleSize": 47622,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -54,7 +54,7 @@
             "AssetGUID": "d9c2d98424ec94b45849583413f35ec0",
             "AssetTags": [],
             "MainBundleName": "assets_myassets_prefabs.bundle",
-            "MainBundleSize": 47458,
+            "MainBundleSize": 47622,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -64,7 +64,7 @@
             "AssetGUID": "87ef6dc877326be4fb1d2d8e9a6e4652",
             "AssetTags": [],
             "MainBundleName": "assets_myassets_prefabs.bundle",
-            "MainBundleSize": 47458,
+            "MainBundleSize": 47622,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -74,7 +74,7 @@
             "AssetGUID": "7aed5e5d1494cd4418b1264346f3439f",
             "AssetTags": [],
             "MainBundleName": "assets_myassets_prefabs.bundle",
-            "MainBundleSize": 47458,
+            "MainBundleSize": 47622,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -84,7 +84,7 @@
             "AssetGUID": "0be219d10ce889540b3d09fbf8ba4340",
             "AssetTags": [],
             "MainBundleName": "assets_myassets_prefabs.bundle",
-            "MainBundleSize": 47458,
+            "MainBundleSize": 47622,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -94,7 +94,7 @@
             "AssetGUID": "5fb5350fc9069f14394916fafba8ea21",
             "AssetTags": [],
             "MainBundleName": "assets_myassets_prefabs.bundle",
-            "MainBundleSize": 47458,
+            "MainBundleSize": 47622,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -104,7 +104,7 @@
             "AssetGUID": "c93322d8097dc4249b766c59d65a4f85",
             "AssetTags": [],
             "MainBundleName": "assets_myassets_prefabs.bundle",
-            "MainBundleSize": 47458,
+            "MainBundleSize": 47622,
             "DependAssets": [],
             "DependBundles": []
         }
@@ -112,10 +112,10 @@
     "BundleInfos": [
         {
             "BundleName": "assets_myassets_prefabs.bundle",
-            "FileName": "3edcbaea66fbb0a6b7fc0233cd5eec62.bundle",
-            "FileHash": "3edcbaea66fbb0a6b7fc0233cd5eec62",
-            "FileCRC": "a7e129f9",
-            "FileSize": 47458,
+            "FileName": "01177f3e683e8c468015f18401209b46.bundle",
+            "FileHash": "01177f3e683e8c468015f18401209b46",
+            "FileCRC": "f8ac7dd8",
+            "FileSize": 47622,
             "Encrypted": false,
             "Tags": [],
             "DependBundles": [],

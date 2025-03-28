@@ -7,8 +7,8 @@
     "BuildBundleType": 2,
     "BuildPipeline": "BuiltinBuildPipeline",
     "PackageName": "DefaultPackage",
-    "PackageVersion": "2025-03-28-1241",
-    "PackageNote": "2025/3/28 20:41:34",
+    "PackageVersion": "2025-03-28-1243",
+    "PackageNote": "2025/3/28 20:43:24",
     "AssetList": [
         {
             "Address": "5274",
@@ -70,10 +70,10 @@
     "BundleList": [
         {
             "BundleName": "assets_myassets_prefabs.bundle",
-            "UnityCRC": 2166437558,
-            "FileHash": "3edcbaea66fbb0a6b7fc0233cd5eec62",
-            "FileCRC": "a7e129f9",
-            "FileSize": 47458,
+            "UnityCRC": 1279823747,
+            "FileHash": "01177f3e683e8c468015f18401209b46",
+            "FileCRC": "f8ac7dd8",
+            "FileSize": 47622,
             "Encrypted": false,
             "Tags": [],
             "DependBundleIDs": []
