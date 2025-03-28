@@ -7,8 +7,8 @@
     "BuildBundleType": 2,
     "BuildPipeline": "BuiltinBuildPipeline",
     "PackageName": "DefaultPackage",
-    "PackageVersion": "2025-03-28-1243",
-    "PackageNote": "2025/3/28 20:43:24",
+    "PackageVersion": "2025-03-28-1270",
+    "PackageNote": "2025/3/28 21:10:01",
     "AssetList": [
         {
             "Address": "5274",
@@ -59,6 +59,22 @@
             "DependBundleIDs": []
         },
         {
+            "Address": "Cube 5",
+            "AssetPath": "Assets/MyAssets/Prefabs/Cube 5.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "Cube 6",
+            "AssetPath": "Assets/MyAssets/Prefabs/Cube 6.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
             "Address": "Cube",
             "AssetPath": "Assets/MyAssets/Prefabs/Cube.prefab",
             "AssetGUID": "",
@@ -70,10 +86,10 @@
     "BundleList": [
         {
             "BundleName": "assets_myassets_prefabs.bundle",
-            "UnityCRC": 1279823747,
-            "FileHash": "01177f3e683e8c468015f18401209b46",
-            "FileCRC": "f8ac7dd8",
-            "FileSize": 47622,
+            "UnityCRC": 344439679,
+            "FileHash": "b4e8c98fa3a33df5413af4efb4fa357d",
+            "FileCRC": "a6156d82",
+            "FileSize": 48121,
             "Encrypted": false,
             "Tags": [],
             "DependBundleIDs": []
