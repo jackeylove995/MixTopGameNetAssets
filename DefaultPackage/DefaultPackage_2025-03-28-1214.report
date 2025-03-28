@@ -1,0 +1,72 @@
+{
+    "Summary": {
+        "YooVersion": "2.3.6",
+        "UnityVersion": "2021.3.32f1",
+        "BuildDate": "2025/3/28 20:14:47",
+        "BuildSeconds": 5,
+        "BuildTarget": 19,
+        "BuildPipeline": "BuiltinBuildPipeline",
+        "BuildBundleType": 2,
+        "BuildPackageName": "DefaultPackage",
+        "BuildPackageVersion": "2025-03-28-1214",
+        "BuildPackageNote": "2025/3/28 20:14:42",
+        "UniqueBundleName": false,
+        "EnableAddressable": true,
+        "LocationToLower": false,
+        "IncludeAssetGUID": false,
+        "AutoCollectShaders": true,
+        "IgnoreRuleName": "YooAsset.Editor.NormalIgnoreRule",
+        "ClearBuildCacheFiles": true,
+        "UseAssetDependencyDB": true,
+        "EnableSharePackRule": true,
+        "SingleReferencedPackAlone": true,
+        "EncryptionClassName": "null",
+        "FileNameStyle": 0,
+        "CompressOption": 2,
+        "DisableWriteTypeTree": false,
+        "IgnoreTypeTreeChanges": true,
+        "WriteLinkXML": true,
+        "CacheServerHost": "",
+        "CacheServerPort": 0,
+        "BuiltinShadersBundleName": "",
+        "MonoScriptsBundleName": "",
+        "AssetFileTotalCount": 1,
+        "MainAssetTotalCount": 1,
+        "AllBundleTotalCount": 1,
+        "AllBundleTotalSize": 43881,
+        "EncryptedBundleTotalCount": 0,
+        "EncryptedBundleTotalSize": 0
+    },
+    "AssetInfos": [
+        {
+            "Address": "Cube",
+            "AssetPath": "Assets/MyAssets/Prefabs/Cube.prefab",
+            "AssetGUID": "c93322d8097dc4249b766c59d65a4f85",
+            "AssetTags": [],
+            "MainBundleName": "assets_myassets_prefabs.bundle",
+            "MainBundleSize": 43881,
+            "DependAssets": [],
+            "DependBundles": []
+        }
+    ],
+    "BundleInfos": [
+        {
+            "BundleName": "assets_myassets_prefabs.bundle",
+            "FileName": "03fd7e8c7b4d35bbd4581de3104087b2.bundle",
+            "FileHash": "03fd7e8c7b4d35bbd4581de3104087b2",
+            "FileCRC": "430fa73a",
+            "FileSize": 43881,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Assets/MyAssets/Prefabs/Cube.prefab",
+                    "AssetGUID": "c93322d8097dc4249b766c59d65a4f85"
+                }
+            ]
+        }
+    ],
+    "IndependAssets": []
+}

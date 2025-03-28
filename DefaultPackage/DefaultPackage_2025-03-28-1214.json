@@ -1,0 +1,34 @@
+{
+    "FileVersion": "2.3.1",
+    "EnableAddressable": true,
+    "LocationToLower": false,
+    "IncludeAssetGUID": false,
+    "OutputNameStyle": 0,
+    "BuildBundleType": 2,
+    "BuildPipeline": "BuiltinBuildPipeline",
+    "PackageName": "DefaultPackage",
+    "PackageVersion": "2025-03-28-1214",
+    "PackageNote": "2025/3/28 20:14:42",
+    "AssetList": [
+        {
+            "Address": "Cube",
+            "AssetPath": "Assets/MyAssets/Prefabs/Cube.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        }
+    ],
+    "BundleList": [
+        {
+            "BundleName": "assets_myassets_prefabs.bundle",
+            "UnityCRC": 3774285771,
+            "FileHash": "03fd7e8c7b4d35bbd4581de3104087b2",
+            "FileCRC": "430fa73a",
+            "FileSize": 43881,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        }
+    ]
+}
