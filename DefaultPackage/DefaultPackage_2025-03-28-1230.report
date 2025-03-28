@@ -2,14 +2,14 @@
     "Summary": {
         "YooVersion": "2.3.6",
         "UnityVersion": "2021.3.32f1",
-        "BuildDate": "2025/3/28 20:14:47",
-        "BuildSeconds": 5,
+        "BuildDate": "2025/3/28 20:30:07",
+        "BuildSeconds": 2,
         "BuildTarget": 19,
         "BuildPipeline": "BuiltinBuildPipeline",
         "BuildBundleType": 2,
         "BuildPackageName": "DefaultPackage",
-        "BuildPackageVersion": "2025-03-28-1214",
-        "BuildPackageNote": "2025/3/28 20:14:42",
+        "BuildPackageVersion": "2025-03-28-1230",
+        "BuildPackageNote": "2025/3/28 20:30:04",
         "UniqueBundleName": false,
         "EnableAddressable": true,
         "LocationToLower": false,
@@ -33,7 +33,7 @@
         "AssetFileTotalCount": 1,
         "MainAssetTotalCount": 1,
         "AllBundleTotalCount": 1,
-        "AllBundleTotalSize": 43881,
+        "AllBundleTotalSize": 45917,
         "EncryptedBundleTotalCount": 0,
         "EncryptedBundleTotalSize": 0
     },
@@ -44,7 +44,7 @@
             "AssetGUID": "c93322d8097dc4249b766c59d65a4f85",
             "AssetTags": [],
             "MainBundleName": "assets_myassets_prefabs.bundle",
-            "MainBundleSize": 43881,
+            "MainBundleSize": 45917,
             "DependAssets": [],
             "DependBundles": []
         }
@@ -52,10 +52,10 @@
     "BundleInfos": [
         {
             "BundleName": "assets_myassets_prefabs.bundle",
-            "FileName": "03fd7e8c7b4d35bbd4581de3104087b2.bundle",
-            "FileHash": "03fd7e8c7b4d35bbd4581de3104087b2",
-            "FileCRC": "430fa73a",
-            "FileSize": 43881,
+            "FileName": "a290478365c0129ea05b14c7d600cc7e.bundle",
+            "FileHash": "a290478365c0129ea05b14c7d600cc7e",
+            "FileCRC": "e104b532",
+            "FileSize": 45917,
             "Encrypted": false,
             "Tags": [],
             "DependBundles": [],
