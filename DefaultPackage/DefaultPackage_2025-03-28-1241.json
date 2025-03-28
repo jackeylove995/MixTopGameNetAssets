@@ -1,0 +1,82 @@
+{
+    "FileVersion": "2.3.1",
+    "EnableAddressable": true,
+    "LocationToLower": false,
+    "IncludeAssetGUID": false,
+    "OutputNameStyle": 0,
+    "BuildBundleType": 2,
+    "BuildPipeline": "BuiltinBuildPipeline",
+    "PackageName": "DefaultPackage",
+    "PackageVersion": "2025-03-28-1241",
+    "PackageNote": "2025/3/28 20:41:34",
+    "AssetList": [
+        {
+            "Address": "5274",
+            "AssetPath": "Assets/MyAssets/Prefabs/5274.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "874587",
+            "AssetPath": "Assets/MyAssets/Prefabs/874587.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "Cube 1",
+            "AssetPath": "Assets/MyAssets/Prefabs/Cube 1.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "Cube 2",
+            "AssetPath": "Assets/MyAssets/Prefabs/Cube 2.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "Cube 3",
+            "AssetPath": "Assets/MyAssets/Prefabs/Cube 3.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "Cube 4",
+            "AssetPath": "Assets/MyAssets/Prefabs/Cube 4.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "Cube",
+            "AssetPath": "Assets/MyAssets/Prefabs/Cube.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        }
+    ],
+    "BundleList": [
+        {
+            "BundleName": "assets_myassets_prefabs.bundle",
+            "UnityCRC": 2166437558,
+            "FileHash": "3edcbaea66fbb0a6b7fc0233cd5eec62",
+            "FileCRC": "a7e129f9",
+            "FileSize": 47458,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        }
+    ]
+}
