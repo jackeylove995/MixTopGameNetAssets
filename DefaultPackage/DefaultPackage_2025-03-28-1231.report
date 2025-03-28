@@ -2,14 +2,14 @@
     "Summary": {
         "YooVersion": "2.3.6",
         "UnityVersion": "2021.3.32f1",
-        "BuildDate": "2025/3/28 20:30:07",
-        "BuildSeconds": 2,
+        "BuildDate": "2025/3/28 20:31:40",
+        "BuildSeconds": 1,
         "BuildTarget": 19,
         "BuildPipeline": "BuiltinBuildPipeline",
         "BuildBundleType": 2,
         "BuildPackageName": "DefaultPackage",
-        "BuildPackageVersion": "2025-03-28-1230",
-        "BuildPackageNote": "2025/3/28 20:30:04",
+        "BuildPackageVersion": "2025-03-28-1231",
+        "BuildPackageNote": "2025/3/28 20:31:39",
         "UniqueBundleName": false,
         "EnableAddressable": true,
         "LocationToLower": false,
@@ -30,21 +30,41 @@
         "CacheServerPort": 0,
         "BuiltinShadersBundleName": "",
         "MonoScriptsBundleName": "",
-        "AssetFileTotalCount": 1,
-        "MainAssetTotalCount": 1,
+        "AssetFileTotalCount": 3,
+        "MainAssetTotalCount": 3,
         "AllBundleTotalCount": 1,
-        "AllBundleTotalSize": 45917,
+        "AllBundleTotalSize": 46450,
         "EncryptedBundleTotalCount": 0,
         "EncryptedBundleTotalSize": 0
     },
     "AssetInfos": [
+        {
+            "Address": "5274",
+            "AssetPath": "Assets/MyAssets/Prefabs/5274.prefab",
+            "AssetGUID": "aa66a2a3274c57a4d895f78f41615313",
+            "AssetTags": [],
+            "MainBundleName": "assets_myassets_prefabs.bundle",
+            "MainBundleSize": 46450,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "874587",
+            "AssetPath": "Assets/MyAssets/Prefabs/874587.prefab",
+            "AssetGUID": "d9c2d98424ec94b45849583413f35ec0",
+            "AssetTags": [],
+            "MainBundleName": "assets_myassets_prefabs.bundle",
+            "MainBundleSize": 46450,
+            "DependAssets": [],
+            "DependBundles": []
+        },
         {
             "Address": "Cube",
             "AssetPath": "Assets/MyAssets/Prefabs/Cube.prefab",
             "AssetGUID": "c93322d8097dc4249b766c59d65a4f85",
             "AssetTags": [],
             "MainBundleName": "assets_myassets_prefabs.bundle",
-            "MainBundleSize": 45917,
+            "MainBundleSize": 46450,
             "DependAssets": [],
             "DependBundles": []
         }
@@ -52,15 +72,23 @@
     "BundleInfos": [
         {
             "BundleName": "assets_myassets_prefabs.bundle",
-            "FileName": "a290478365c0129ea05b14c7d600cc7e.bundle",
-            "FileHash": "a290478365c0129ea05b14c7d600cc7e",
-            "FileCRC": "e104b532",
-            "FileSize": 45917,
+            "FileName": "b4228aac88b0665f301109bb9e632461.bundle",
+            "FileHash": "b4228aac88b0665f301109bb9e632461",
+            "FileCRC": "3d0494fe",
+            "FileSize": 46450,
             "Encrypted": false,
             "Tags": [],
             "DependBundles": [],
             "ReferenceBundles": [],
             "BundleContents": [
+                {
+                    "AssetPath": "Assets/MyAssets/Prefabs/5274.prefab",
+                    "AssetGUID": "aa66a2a3274c57a4d895f78f41615313"
+                },
+                {
+                    "AssetPath": "Assets/MyAssets/Prefabs/874587.prefab",
+                    "AssetGUID": "d9c2d98424ec94b45849583413f35ec0"
+                },
                 {
                     "AssetPath": "Assets/MyAssets/Prefabs/Cube.prefab",
                     "AssetGUID": "c93322d8097dc4249b766c59d65a4f85"
