@@ -1,15 +1,15 @@
 {
     "Summary": {
         "YooVersion": "2.3.6",
-        "UnityVersion": "2021.3.32f1",
-        "BuildDate": "2025/3/28 21:18:55",
-        "BuildSeconds": 1,
+        "UnityVersion": "2021.3.45f1c1",
+        "BuildDate": "2025/3/28 22:21:52",
+        "BuildSeconds": 3,
         "BuildTarget": 19,
         "BuildPipeline": "BuiltinBuildPipeline",
         "BuildBundleType": 2,
         "BuildPackageName": "DefaultPackage",
-        "BuildPackageVersion": "2025-03-28-1278",
-        "BuildPackageNote": "2025/3/28 21:18:54",
+        "BuildPackageVersion": "2025-03-28-1341",
+        "BuildPackageNote": "2025/3/28 22:21:49",
         "UniqueBundleName": false,
         "EnableAddressable": true,
         "LocationToLower": false,
@@ -30,10 +30,10 @@
         "CacheServerPort": 0,
         "BuiltinShadersBundleName": "",
         "MonoScriptsBundleName": "",
-        "AssetFileTotalCount": 12,
-        "MainAssetTotalCount": 12,
-        "AllBundleTotalCount": 1,
-        "AllBundleTotalSize": 48871,
+        "AssetFileTotalCount": 16,
+        "MainAssetTotalCount": 16,
+        "AllBundleTotalCount": 2,
+        "AllBundleTotalSize": 95433,
         "EncryptedBundleTotalCount": 0,
         "EncryptedBundleTotalSize": 0
     },
@@ -44,7 +44,7 @@
             "AssetGUID": "aa66a2a3274c57a4d895f78f41615313",
             "AssetTags": [],
             "MainBundleName": "assets_myassets_prefabs.bundle",
-            "MainBundleSize": 48871,
+            "MainBundleSize": 48874,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -54,7 +54,7 @@
             "AssetGUID": "d9c2d98424ec94b45849583413f35ec0",
             "AssetTags": [],
             "MainBundleName": "assets_myassets_prefabs.bundle",
-            "MainBundleSize": 48871,
+            "MainBundleSize": 48874,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -64,7 +64,7 @@
             "AssetGUID": "87ef6dc877326be4fb1d2d8e9a6e4652",
             "AssetTags": [],
             "MainBundleName": "assets_myassets_prefabs.bundle",
-            "MainBundleSize": 48871,
+            "MainBundleSize": 48874,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -74,7 +74,7 @@
             "AssetGUID": "7aed5e5d1494cd4418b1264346f3439f",
             "AssetTags": [],
             "MainBundleName": "assets_myassets_prefabs.bundle",
-            "MainBundleSize": 48871,
+            "MainBundleSize": 48874,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -84,7 +84,7 @@
             "AssetGUID": "0be219d10ce889540b3d09fbf8ba4340",
             "AssetTags": [],
             "MainBundleName": "assets_myassets_prefabs.bundle",
-            "MainBundleSize": 48871,
+            "MainBundleSize": 48874,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -94,7 +94,7 @@
             "AssetGUID": "5fb5350fc9069f14394916fafba8ea21",
             "AssetTags": [],
             "MainBundleName": "assets_myassets_prefabs.bundle",
-            "MainBundleSize": 48871,
+            "MainBundleSize": 48874,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -104,7 +104,7 @@
             "AssetGUID": "919a5153e17be4f479c0d3e560eb7336",
             "AssetTags": [],
             "MainBundleName": "assets_myassets_prefabs.bundle",
-            "MainBundleSize": 48871,
+            "MainBundleSize": 48874,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -114,7 +114,7 @@
             "AssetGUID": "92c0468ed26fbcc449682734f8418789",
             "AssetTags": [],
             "MainBundleName": "assets_myassets_prefabs.bundle",
-            "MainBundleSize": 48871,
+            "MainBundleSize": 48874,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -124,7 +124,7 @@
             "AssetGUID": "10a39e53f34f72942b7a24d58a84fe28",
             "AssetTags": [],
             "MainBundleName": "assets_myassets_prefabs.bundle",
-            "MainBundleSize": 48871,
+            "MainBundleSize": 48874,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -134,7 +134,7 @@
             "AssetGUID": "bbac9d78cd6585945bac42d4c083cdfd",
             "AssetTags": [],
             "MainBundleName": "assets_myassets_prefabs.bundle",
-            "MainBundleSize": 48871,
+            "MainBundleSize": 48874,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -144,7 +144,7 @@
             "AssetGUID": "5ef5f2181c72ec04f958c9a66e81de79",
             "AssetTags": [],
             "MainBundleName": "assets_myassets_prefabs.bundle",
-            "MainBundleSize": 48871,
+            "MainBundleSize": 48874,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -154,7 +154,47 @@
             "AssetGUID": "c93322d8097dc4249b766c59d65a4f85",
             "AssetTags": [],
             "MainBundleName": "assets_myassets_prefabs.bundle",
-            "MainBundleSize": 48871,
+            "MainBundleSize": 48874,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "Sphere 1",
+            "AssetPath": "Assets/MyAssets/test1/Sphere 1.prefab",
+            "AssetGUID": "5e1ce13be4eaca841af388350a7d9595",
+            "AssetTags": [],
+            "MainBundleName": "assets_myassets_test1.bundle",
+            "MainBundleSize": 46559,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "Sphere 2",
+            "AssetPath": "Assets/MyAssets/test1/Sphere 2.prefab",
+            "AssetGUID": "5ee863b40035b8e41bcc486d6510112a",
+            "AssetTags": [],
+            "MainBundleName": "assets_myassets_test1.bundle",
+            "MainBundleSize": 46559,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "Sphere 3",
+            "AssetPath": "Assets/MyAssets/test1/Sphere 3.prefab",
+            "AssetGUID": "123caeea91b501d43bfc347000e73114",
+            "AssetTags": [],
+            "MainBundleName": "assets_myassets_test1.bundle",
+            "MainBundleSize": 46559,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "Sphere",
+            "AssetPath": "Assets/MyAssets/test1/Sphere.prefab",
+            "AssetGUID": "4238fcc66ab81724891f52e386ebe0eb",
+            "AssetTags": [],
+            "MainBundleName": "assets_myassets_test1.bundle",
+            "MainBundleSize": 46559,
             "DependAssets": [],
             "DependBundles": []
         }
@@ -162,10 +202,10 @@
     "BundleInfos": [
         {
             "BundleName": "assets_myassets_prefabs.bundle",
-            "FileName": "63327b11a5d732dcbd4dc77d4664e486.bundle",
-            "FileHash": "63327b11a5d732dcbd4dc77d4664e486",
-            "FileCRC": "27aaaba5",
-            "FileSize": 48871,
+            "FileName": "b5db5ab0c5c49cf4e89fb052908b35ae.bundle",
+            "FileHash": "b5db5ab0c5c49cf4e89fb052908b35ae",
+            "FileCRC": "3e2abab1",
+            "FileSize": 48874,
             "Encrypted": false,
             "Tags": [],
             "DependBundles": [],
@@ -218,6 +258,35 @@
                 {
                     "AssetPath": "Assets/MyAssets/Prefabs/Cube.prefab",
                     "AssetGUID": "c93322d8097dc4249b766c59d65a4f85"
+                }
+            ]
+        },
+        {
+            "BundleName": "assets_myassets_test1.bundle",
+            "FileName": "06ab2a09384e01dcf7b8cddf4aa77562.bundle",
+            "FileHash": "06ab2a09384e01dcf7b8cddf4aa77562",
+            "FileCRC": "a7faaf12",
+            "FileSize": 46559,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "ReferenceBundles": [],
+            "BundleContents": [
+                {
+                    "AssetPath": "Assets/MyAssets/test1/Sphere 1.prefab",
+                    "AssetGUID": "5e1ce13be4eaca841af388350a7d9595"
+                },
+                {
+                    "AssetPath": "Assets/MyAssets/test1/Sphere 2.prefab",
+                    "AssetGUID": "5ee863b40035b8e41bcc486d6510112a"
+                },
+                {
+                    "AssetPath": "Assets/MyAssets/test1/Sphere 3.prefab",
+                    "AssetGUID": "123caeea91b501d43bfc347000e73114"
+                },
+                {
+                    "AssetPath": "Assets/MyAssets/test1/Sphere.prefab",
+                    "AssetGUID": "4238fcc66ab81724891f52e386ebe0eb"
                 }
             ]
         }

@@ -7,8 +7,8 @@
     "BuildBundleType": 2,
     "BuildPipeline": "BuiltinBuildPipeline",
     "PackageName": "DefaultPackage",
-    "PackageVersion": "2025-03-28-1278",
-    "PackageNote": "2025/3/28 21:18:54",
+    "PackageVersion": "2025-03-28-1341",
+    "PackageNote": "2025/3/28 22:21:49",
     "AssetList": [
         {
             "Address": "5274",
@@ -105,15 +105,57 @@
             "AssetTags": [],
             "BundleID": 0,
             "DependBundleIDs": []
+        },
+        {
+            "Address": "Sphere 1",
+            "AssetPath": "Assets/MyAssets/test1/Sphere 1.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 1,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "Sphere 2",
+            "AssetPath": "Assets/MyAssets/test1/Sphere 2.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 1,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "Sphere 3",
+            "AssetPath": "Assets/MyAssets/test1/Sphere 3.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 1,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "Sphere",
+            "AssetPath": "Assets/MyAssets/test1/Sphere.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 1,
+            "DependBundleIDs": []
         }
     ],
     "BundleList": [
         {
             "BundleName": "assets_myassets_prefabs.bundle",
-            "UnityCRC": 2592540907,
-            "FileHash": "63327b11a5d732dcbd4dc77d4664e486",
-            "FileCRC": "27aaaba5",
-            "FileSize": 48871,
+            "UnityCRC": 3302327694,
+            "FileHash": "b5db5ab0c5c49cf4e89fb052908b35ae",
+            "FileCRC": "3e2abab1",
+            "FileSize": 48874,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_myassets_test1.bundle",
+            "UnityCRC": 2946789562,
+            "FileHash": "06ab2a09384e01dcf7b8cddf4aa77562",
+            "FileCRC": "a7faaf12",
+            "FileSize": 46559,
             "Encrypted": false,
             "Tags": [],
             "DependBundleIDs": []
