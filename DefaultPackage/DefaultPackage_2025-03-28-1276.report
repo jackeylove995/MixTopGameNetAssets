@@ -2,14 +2,14 @@
     "Summary": {
         "YooVersion": "2.3.6",
         "UnityVersion": "2021.3.32f1",
-        "BuildDate": "2025/3/28 21:10:03",
+        "BuildDate": "2025/3/28 21:16:28",
         "BuildSeconds": 1,
         "BuildTarget": 19,
         "BuildPipeline": "BuiltinBuildPipeline",
         "BuildBundleType": 2,
         "BuildPackageName": "DefaultPackage",
-        "BuildPackageVersion": "2025-03-28-1270",
-        "BuildPackageNote": "2025/3/28 21:10:01",
+        "BuildPackageVersion": "2025-03-28-1276",
+        "BuildPackageNote": "2025/3/28 21:16:26",
         "UniqueBundleName": false,
         "EnableAddressable": true,
         "LocationToLower": false,
@@ -30,10 +30,10 @@
         "CacheServerPort": 0,
         "BuiltinShadersBundleName": "",
         "MonoScriptsBundleName": "",
-        "AssetFileTotalCount": 9,
-        "MainAssetTotalCount": 9,
+        "AssetFileTotalCount": 12,
+        "MainAssetTotalCount": 12,
         "AllBundleTotalCount": 1,
-        "AllBundleTotalSize": 48121,
+        "AllBundleTotalSize": 48871,
         "EncryptedBundleTotalCount": 0,
         "EncryptedBundleTotalSize": 0
     },
@@ -44,7 +44,7 @@
             "AssetGUID": "aa66a2a3274c57a4d895f78f41615313",
             "AssetTags": [],
             "MainBundleName": "assets_myassets_prefabs.bundle",
-            "MainBundleSize": 48121,
+            "MainBundleSize": 48871,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -54,7 +54,7 @@
             "AssetGUID": "d9c2d98424ec94b45849583413f35ec0",
             "AssetTags": [],
             "MainBundleName": "assets_myassets_prefabs.bundle",
-            "MainBundleSize": 48121,
+            "MainBundleSize": 48871,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -64,7 +64,7 @@
             "AssetGUID": "87ef6dc877326be4fb1d2d8e9a6e4652",
             "AssetTags": [],
             "MainBundleName": "assets_myassets_prefabs.bundle",
-            "MainBundleSize": 48121,
+            "MainBundleSize": 48871,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -74,7 +74,7 @@
             "AssetGUID": "7aed5e5d1494cd4418b1264346f3439f",
             "AssetTags": [],
             "MainBundleName": "assets_myassets_prefabs.bundle",
-            "MainBundleSize": 48121,
+            "MainBundleSize": 48871,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -84,7 +84,7 @@
             "AssetGUID": "0be219d10ce889540b3d09fbf8ba4340",
             "AssetTags": [],
             "MainBundleName": "assets_myassets_prefabs.bundle",
-            "MainBundleSize": 48121,
+            "MainBundleSize": 48871,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -94,7 +94,7 @@
             "AssetGUID": "5fb5350fc9069f14394916fafba8ea21",
             "AssetTags": [],
             "MainBundleName": "assets_myassets_prefabs.bundle",
-            "MainBundleSize": 48121,
+            "MainBundleSize": 48871,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -104,7 +104,7 @@
             "AssetGUID": "919a5153e17be4f479c0d3e560eb7336",
             "AssetTags": [],
             "MainBundleName": "assets_myassets_prefabs.bundle",
-            "MainBundleSize": 48121,
+            "MainBundleSize": 48871,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -114,7 +114,37 @@
             "AssetGUID": "92c0468ed26fbcc449682734f8418789",
             "AssetTags": [],
             "MainBundleName": "assets_myassets_prefabs.bundle",
-            "MainBundleSize": 48121,
+            "MainBundleSize": 48871,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "Cube 7",
+            "AssetPath": "Assets/MyAssets/Prefabs/Cube 7.prefab",
+            "AssetGUID": "10a39e53f34f72942b7a24d58a84fe28",
+            "AssetTags": [],
+            "MainBundleName": "assets_myassets_prefabs.bundle",
+            "MainBundleSize": 48871,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "Cube 8",
+            "AssetPath": "Assets/MyAssets/Prefabs/Cube 8.prefab",
+            "AssetGUID": "bbac9d78cd6585945bac42d4c083cdfd",
+            "AssetTags": [],
+            "MainBundleName": "assets_myassets_prefabs.bundle",
+            "MainBundleSize": 48871,
+            "DependAssets": [],
+            "DependBundles": []
+        },
+        {
+            "Address": "Cube 9",
+            "AssetPath": "Assets/MyAssets/Prefabs/Cube 9.prefab",
+            "AssetGUID": "5ef5f2181c72ec04f958c9a66e81de79",
+            "AssetTags": [],
+            "MainBundleName": "assets_myassets_prefabs.bundle",
+            "MainBundleSize": 48871,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -124,7 +154,7 @@
             "AssetGUID": "c93322d8097dc4249b766c59d65a4f85",
             "AssetTags": [],
             "MainBundleName": "assets_myassets_prefabs.bundle",
-            "MainBundleSize": 48121,
+            "MainBundleSize": 48871,
             "DependAssets": [],
             "DependBundles": []
         }
@@ -132,10 +162,10 @@
     "BundleInfos": [
         {
             "BundleName": "assets_myassets_prefabs.bundle",
-            "FileName": "b4e8c98fa3a33df5413af4efb4fa357d.bundle",
-            "FileHash": "b4e8c98fa3a33df5413af4efb4fa357d",
-            "FileCRC": "a6156d82",
-            "FileSize": 48121,
+            "FileName": "63327b11a5d732dcbd4dc77d4664e486.bundle",
+            "FileHash": "63327b11a5d732dcbd4dc77d4664e486",
+            "FileCRC": "27aaaba5",
+            "FileSize": 48871,
             "Encrypted": false,
             "Tags": [],
             "DependBundles": [],
@@ -172,6 +202,18 @@
                 {
                     "AssetPath": "Assets/MyAssets/Prefabs/Cube 6.prefab",
                     "AssetGUID": "92c0468ed26fbcc449682734f8418789"
+                },
+                {
+                    "AssetPath": "Assets/MyAssets/Prefabs/Cube 7.prefab",
+                    "AssetGUID": "10a39e53f34f72942b7a24d58a84fe28"
+                },
+                {
+                    "AssetPath": "Assets/MyAssets/Prefabs/Cube 8.prefab",
+                    "AssetGUID": "bbac9d78cd6585945bac42d4c083cdfd"
+                },
+                {
+                    "AssetPath": "Assets/MyAssets/Prefabs/Cube 9.prefab",
+                    "AssetGUID": "5ef5f2181c72ec04f958c9a66e81de79"
                 },
                 {
                     "AssetPath": "Assets/MyAssets/Prefabs/Cube.prefab",
