@@ -1,0 +1,698 @@
+ManifestFileVersion: 0
+CRC: 725796203
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: assets_assetshotupdate_lua_aaa_init.bundle
+      Dependencies: {}
+    Info_1:
+      Name: assets_assetshotupdate_lua_aaa_init_cslike.bundle
+      Dependencies: {}
+    Info_2:
+      Name: assets_assetshotupdate_lua_aaa_init_factory.bundle
+      Dependencies: {}
+    Info_3:
+      Name: assets_assetshotupdate_lua_aaa_init_global.bundle
+      Dependencies: {}
+    Info_4:
+      Name: assets_assetshotupdate_lua_aaa_init_ioc.bundle
+      Dependencies: {}
+    Info_5:
+      Name: assets_assetshotupdate_lua_aaa_init_luabasetypeextension.bundle
+      Dependencies: {}
+    Info_6:
+      Name: assets_assetshotupdate_lua_aaa_init_profiler.bundle
+      Dependencies: {}
+    Info_7:
+      Name: assets_assetshotupdate_lua_addressmap.bundle
+      Dependencies: {}
+    Info_8:
+      Name: assets_assetshotupdate_lua_configs.bundle
+      Dependencies: {}
+    Info_9:
+      Name: assets_assetshotupdate_lua_gamelogic_cmcamera.bundle
+      Dependencies: {}
+    Info_10:
+      Name: assets_assetshotupdate_lua_gamelogic_game.bundle
+      Dependencies: {}
+    Info_11:
+      Name: assets_assetshotupdate_lua_gamelogic_game_model.bundle
+      Dependencies: {}
+    Info_12:
+      Name: assets_assetshotupdate_lua_gamelogic_game_viewcontroller.bundle
+      Dependencies: {}
+    Info_13:
+      Name: assets_assetshotupdate_lua_gamelogic_login.bundle
+      Dependencies: {}
+    Info_14:
+      Name: assets_assetshotupdate_lua_gamelogic_login_viewcontroller.bundle
+      Dependencies: {}
+    Info_15:
+      Name: assets_assetshotupdate_lua_gamelogic_popitems_model.bundle
+      Dependencies: {}
+    Info_16:
+      Name: assets_assetshotupdate_lua_gamelogic_popitems.bundle
+      Dependencies: {}
+    Info_17:
+      Name: assets_assetshotupdate_lua_gamelogic_popitems_view.bundle
+      Dependencies: {}
+    Info_18:
+      Name: assets_assetshotupdate_lua.bundle
+      Dependencies: {}
+    Info_19:
+      Name: assets_assetshotupdate_game_assets_aabase.bundle
+      Dependencies:
+        Dependency_0: share_assets_assetstest_ui_pack_button.bundle
+    Info_20:
+      Name: assets_assetshotupdate_game_assets_game_art.bundle
+      Dependencies: {}
+    Info_21:
+      Name: assets_assetshotupdate_game_assets_game.bundle
+      Dependencies:
+        Dependency_0: assets_assetshotupdate_lua_gamelogic_game_viewcontroller.bundle
+        Dependency_1: assets_assetshotupdate_game_assets_aabase.bundle
+    Info_22:
+      Name: assets_assetshotupdate_game_assets_login.bundle
+      Dependencies:
+        Dependency_0: assets_assetshotupdate_lua_gamelogic_login_viewcontroller.bundle
+        Dependency_1: assets_assetshotupdate_game_assets_aabase.bundle
+    Info_23:
+      Name: assets_assetshotupdate_game_assets_popitems_materials_base_color.bundle
+      Dependencies:
+        Dependency_0: assets_assetshotupdate_game_assets_popitems_texture_texture.bundle
+        Dependency_1: unityshaders.bundle
+    Info_24:
+      Name: assets_assetshotupdate_game_assets_popitems_materials_glass.bundle
+      Dependencies:
+        Dependency_0: unityshaders.bundle
+    Info_25:
+      Name: assets_assetshotupdate_game_assets_popitems_materials_ground.bundle
+      Dependencies:
+        Dependency_0: unityshaders.bundle
+    Info_26:
+      Name: assets_assetshotupdate_game_assets_popitems_meshcollider_bell_pepper_green_slice_collider.bundle
+      Dependencies: {}
+    Info_27:
+      Name: assets_assetshotupdate_game_assets_popitems_meshcollider_bell_pepper_collider.bundle
+      Dependencies:
+        Dependency_0: share_packages_com_unity_render-pipelines_universal_runtime_materials.bundle
+    Info_28:
+      Name: assets_assetshotupdate_game_assets_popitems_meshcollider_bundt_cake_cut_collider_1.bundle
+      Dependencies: {}
+    Info_29:
+      Name: assets_assetshotupdate_game_assets_popitems_meshcollider_bundt_cake_cut_collider_2.bundle
+      Dependencies: {}
+    Info_30:
+      Name: assets_assetshotupdate_game_assets_popitems_meshcollider_bundt_cake_piece_collider.bundle
+      Dependencies: {}
+    Info_31:
+      Name: assets_assetshotupdate_game_assets_popitems_meshcollider_bundt_cake_collider.bundle
+      Dependencies: {}
+    Info_32:
+      Name: assets_assetshotupdate_game_assets_popitems_meshcollider_candy_cane_collider_1.bundle
+      Dependencies: {}
+    Info_33:
+      Name: assets_assetshotupdate_game_assets_popitems_meshcollider_candy_cane_collider_2.bundle
+      Dependencies: {}
+    Info_34:
+      Name: assets_assetshotupdate_game_assets_popitems_meshcollider_cheesecake_collider.bundle
+      Dependencies: {}
+    Info_35:
+      Name: assets_assetshotupdate_game_assets_popitems_meshcollider_chopsticks_a+b_collider.bundle
+      Dependencies: {}
+    Info_36:
+      Name: assets_assetshotupdate_game_assets_popitems_meshcollider_chopsticks_holder_collider.bundle
+      Dependencies: {}
+    Info_37:
+      Name: assets_assetshotupdate_game_assets_popitems_meshcollider_coffee_cup_collider.bundle
+      Dependencies: {}
+    Info_38:
+      Name: assets_assetshotupdate_game_assets_popitems_meshcollider_cookies_collider.bundle
+      Dependencies: {}
+    Info_39:
+      Name: assets_assetshotupdate_game_assets_popitems_meshcollider_curry_plate_collider.bundle
+      Dependencies: {}
+    Info_40:
+      Name: assets_assetshotupdate_game_assets_popitems_meshcollider_doughnut_collider.bundle
+      Dependencies: {}
+    Info_41:
+      Name: assets_assetshotupdate_game_assets_popitems_meshcollider_frappe_b_collider_1.bundle
+      Dependencies: {}
+    Info_42:
+      Name: assets_assetshotupdate_game_assets_popitems_meshcollider_frappe_b_collider_2.bundle
+      Dependencies: {}
+    Info_43:
+      Name: assets_assetshotupdate_game_assets_popitems_meshcollider_hotdog_collider.bundle
+      Dependencies: {}
+    Info_44:
+      Name: assets_assetshotupdate_game_assets_popitems_meshcollider_ice_cream_stick_b_to_h_collider.bundle
+      Dependencies: {}
+    Info_45:
+      Name: assets_assetshotupdate_game_assets_popitems_meshcollider_ketchup+mustard_plastic_bottle_collider.bundle
+      Dependencies: {}
+    Info_46:
+      Name: assets_assetshotupdate_game_assets_popitems_meshcollider_lamb_chop_cooked.bundle
+      Dependencies: {}
+    Info_47:
+      Name: assets_assetshotupdate_game_assets_popitems_meshcollider_lamb_chop.bundle
+      Dependencies: {}
+    Info_48:
+      Name: assets_assetshotupdate_game_assets_popitems_meshcollider_lamb_chop_collider.bundle
+      Dependencies: {}
+    Info_49:
+      Name: assets_assetshotupdate_game_assets_popitems_meshcollider_lamb_leg.bundle
+      Dependencies: {}
+    Info_50:
+      Name: assets_assetshotupdate_game_assets_popitems_meshcollider_lamb_leg_collider.bundle
+      Dependencies: {}
+    Info_51:
+      Name: assets_assetshotupdate_game_assets_popitems_meshcollider_maki_1_collider.bundle
+      Dependencies: {}
+    Info_52:
+      Name: assets_assetshotupdate_game_assets_popitems_meshcollider_melon_half_collider.bundle
+      Dependencies: {}
+    Info_53:
+      Name: assets_assetshotupdate_game_assets_popitems_meshcollider_melon_piece_collider.bundle
+      Dependencies: {}
+    Info_54:
+      Name: assets_assetshotupdate_game_assets_popitems_meshcollider_melon_collider.bundle
+      Dependencies: {}
+    Info_55:
+      Name: assets_assetshotupdate_game_assets_popitems_meshcollider_peach_half_collider.bundle
+      Dependencies: {}
+    Info_56:
+      Name: assets_assetshotupdate_game_assets_popitems_meshcollider_peach_slice_collider.bundle
+      Dependencies: {}
+    Info_57:
+      Name: assets_assetshotupdate_game_assets_popitems_meshcollider_peach_collider.bundle
+      Dependencies: {}
+    Info_58:
+      Name: assets_assetshotupdate_game_assets_popitems_meshcollider_pizza_cut_collider.bundle
+      Dependencies: {}
+    Info_59:
+      Name: assets_assetshotupdate_game_assets_popitems_meshcollider_pizza_slice_collider.bundle
+      Dependencies: {}
+    Info_60:
+      Name: assets_assetshotupdate_game_assets_popitems_meshcollider_pizza_collider.bundle
+      Dependencies: {}
+    Info_61:
+      Name: assets_assetshotupdate_game_assets_popitems_meshcollider_pretzel_collider.bundle
+      Dependencies: {}
+    Info_62:
+      Name: assets_assetshotupdate_game_assets_popitems_meshcollider_sake_cup_b+c_collider.bundle
+      Dependencies: {}
+    Info_63:
+      Name: assets_assetshotupdate_game_assets_popitems_meshcollider_sake_pot_c_collider.bundle
+      Dependencies: {}
+    Info_64:
+      Name: assets_assetshotupdate_game_assets_popitems_meshcollider_salami_a.bundle
+      Dependencies: {}
+    Info_65:
+      Name: assets_assetshotupdate_game_assets_popitems_meshcollider_salami_a_collider.bundle
+      Dependencies: {}
+    Info_66:
+      Name: assets_assetshotupdate_game_assets_popitems_meshcollider_salami_cut_a.bundle
+      Dependencies: {}
+    Info_67:
+      Name: assets_assetshotupdate_game_assets_popitems_meshcollider_salami_cut_a_collider.bundle
+      Dependencies: {}
+    Info_68:
+      Name: assets_assetshotupdate_game_assets_popitems_meshcollider_salami_slice_a.bundle
+      Dependencies: {}
+    Info_69:
+      Name: assets_assetshotupdate_game_assets_popitems_meshcollider_salami_slice_a_collider.bundle
+      Dependencies: {}
+    Info_70:
+      Name: assets_assetshotupdate_game_assets_popitems_meshcollider_salmon_cut.bundle
+      Dependencies: {}
+    Info_71:
+      Name: assets_assetshotupdate_game_assets_popitems_meshcollider_salmon_cut_collider.bundle
+      Dependencies: {}
+    Info_72:
+      Name: assets_assetshotupdate_game_assets_popitems_meshcollider_salmon_fillet.bundle
+      Dependencies: {}
+    Info_73:
+      Name: assets_assetshotupdate_game_assets_popitems_meshcollider_salmon_fillet_collider.bundle
+      Dependencies: {}
+    Info_74:
+      Name: assets_assetshotupdate_game_assets_popitems_meshcollider_salmon_plastic_tray.bundle
+      Dependencies:
+        Dependency_0: unityshaders.bundle
+    Info_75:
+      Name: assets_assetshotupdate_game_assets_popitems_meshcollider_salmon_plastic_tray_collider.bundle
+      Dependencies: {}
+    Info_76:
+      Name: assets_assetshotupdate_game_assets_popitems_meshcollider_salmon_skeleton.bundle
+      Dependencies: {}
+    Info_77:
+      Name: assets_assetshotupdate_game_assets_popitems_meshcollider_salmon_skeleton_collider.bundle
+      Dependencies: {}
+    Info_78:
+      Name: assets_assetshotupdate_game_assets_popitems_meshcollider_salmon.bundle
+      Dependencies: {}
+    Info_79:
+      Name: assets_assetshotupdate_game_assets_popitems_meshcollider_salmon_collider.bundle
+      Dependencies: {}
+    Info_80:
+      Name: assets_assetshotupdate_game_assets_popitems_meshcollider_skewer_c_collider.bundle
+      Dependencies: {}
+    Info_81:
+      Name: assets_assetshotupdate_game_assets_popitems_meshcollider_soda_bottle_glass_collider.bundle
+      Dependencies: {}
+    Info_82:
+      Name: assets_assetshotupdate_game_assets_popitems_meshcollider_soda_can_collider.bundle
+      Dependencies: {}
+    Info_83:
+      Name: assets_assetshotupdate_game_assets_popitems_meshcollider_sushi_wood_table_collider.bundle
+      Dependencies: {}
+    Info_84:
+      Name: assets_assetshotupdate_game_assets_popitems_meshcollider_swirl_lollipop_collider.bundle
+      Dependencies: {}
+    Info_85:
+      Name: assets_assetshotupdate_game_assets_popitems_meshcollider_tamago_collider.bundle
+      Dependencies: {}
+    Info_86:
+      Name: assets_assetshotupdate_game_assets_popitems_meshcollider_tomato_half_collider.bundle
+      Dependencies: {}
+    Info_87:
+      Name: assets_assetshotupdate_game_assets_popitems_meshcollider_tomato_quarter_collider.bundle
+      Dependencies: {}
+    Info_88:
+      Name: assets_assetshotupdate_game_assets_popitems_meshcollider_tomato_collider.bundle
+      Dependencies: {}
+    Info_89:
+      Name: assets_assetshotupdate_game_assets_popitems_meshcollider_udon_collider.bundle
+      Dependencies: {}
+    Info_90:
+      Name: assets_assetshotupdate_game_assets_popitems_meshcollider_unagi_collider.bundle
+      Dependencies: {}
+    Info_91:
+      Name: assets_assetshotupdate_game_assets_popitems_meshcollider_wasabi_collider.bundle
+      Dependencies: {}
+    Info_92:
+      Name: assets_assetshotupdate_game_assets_popitems_prefabswithcolliders_food_1.bundle
+      Dependencies:
+        Dependency_0: assets_assetshotupdate_lua_gamelogic_popitems_view.bundle
+        Dependency_1: assets_assetshotupdate_game_assets_popitems_materials_base_color.bundle
+        Dependency_2: assets_assetshotupdate_game_assets_popitems_meshcollider_bell_pepper_green_slice_collider.bundle
+        Dependency_3: share_assets_assetstest_food_pack-demo_mesh.bundle
+    Info_93:
+      Name: assets_assetshotupdate_game_assets_popitems_prefabswithcolliders_food_2.bundle
+      Dependencies:
+        Dependency_0: assets_assetshotupdate_lua_gamelogic_popitems_view.bundle
+        Dependency_1: assets_assetshotupdate_game_assets_popitems_materials_base_color.bundle
+        Dependency_2: assets_assetshotupdate_game_assets_popitems_meshcollider_bell_pepper_collider.bundle
+        Dependency_3: share_assets_assetstest_food_pack-demo_mesh.bundle
+    Info_94:
+      Name: assets_assetshotupdate_game_assets_popitems_prefabswithcolliders_food_3.bundle
+      Dependencies:
+        Dependency_0: assets_assetshotupdate_lua_gamelogic_popitems_view.bundle
+        Dependency_1: assets_assetshotupdate_game_assets_popitems_materials_base_color.bundle
+        Dependency_2: assets_assetshotupdate_game_assets_popitems_meshcollider_bundt_cake_cut_collider_1.bundle
+        Dependency_3: assets_assetshotupdate_game_assets_popitems_meshcollider_bundt_cake_cut_collider_2.bundle
+        Dependency_4: share_assets_assetstest_food_pack-demo_mesh.bundle
+    Info_95:
+      Name: assets_assetshotupdate_game_assets_popitems_prefabswithcolliders_food_4.bundle
+      Dependencies:
+        Dependency_0: assets_assetshotupdate_lua_gamelogic_popitems_view.bundle
+        Dependency_1: assets_assetshotupdate_game_assets_popitems_materials_base_color.bundle
+        Dependency_2: assets_assetshotupdate_game_assets_popitems_meshcollider_bundt_cake_piece_collider.bundle
+        Dependency_3: share_assets_assetstest_food_pack-demo_mesh.bundle
+    Info_96:
+      Name: assets_assetshotupdate_game_assets_popitems_prefabswithcolliders_food_5.bundle
+      Dependencies:
+        Dependency_0: assets_assetshotupdate_lua_gamelogic_popitems_view.bundle
+        Dependency_1: assets_assetshotupdate_game_assets_popitems_materials_base_color.bundle
+        Dependency_2: assets_assetshotupdate_game_assets_popitems_meshcollider_bundt_cake_collider.bundle
+        Dependency_3: share_assets_assetstest_food_pack-demo_mesh.bundle
+    Info_97:
+      Name: assets_assetshotupdate_game_assets_popitems_prefabswithcolliders_food_6.bundle
+      Dependencies:
+        Dependency_0: assets_assetshotupdate_lua_gamelogic_popitems_view.bundle
+        Dependency_1: assets_assetshotupdate_game_assets_popitems_materials_base_color.bundle
+        Dependency_2: assets_assetshotupdate_game_assets_popitems_meshcollider_candy_cane_collider_1.bundle
+        Dependency_3: assets_assetshotupdate_game_assets_popitems_meshcollider_candy_cane_collider_2.bundle
+        Dependency_4: share_assets_assetstest_food_pack-demo_mesh.bundle
+    Info_98:
+      Name: assets_assetshotupdate_game_assets_popitems_prefabswithcolliders_food_7.bundle
+      Dependencies:
+        Dependency_0: assets_assetshotupdate_lua_gamelogic_popitems_view.bundle
+        Dependency_1: assets_assetshotupdate_game_assets_popitems_materials_base_color.bundle
+        Dependency_2: assets_assetshotupdate_game_assets_popitems_meshcollider_cheesecake_collider.bundle
+        Dependency_3: share_assets_assetstest_food_pack-demo_mesh.bundle
+    Info_99:
+      Name: assets_assetshotupdate_game_assets_popitems_prefabswithcolliders_food_8.bundle
+      Dependencies:
+        Dependency_0: assets_assetshotupdate_lua_gamelogic_popitems_view.bundle
+        Dependency_1: assets_assetshotupdate_game_assets_popitems_materials_base_color.bundle
+        Dependency_2: assets_assetshotupdate_game_assets_popitems_meshcollider_chopsticks_a+b_collider.bundle
+        Dependency_3: share_assets_assetstest_food_pack-demo_mesh.bundle
+    Info_100:
+      Name: assets_assetshotupdate_game_assets_popitems_prefabswithcolliders_food_9.bundle
+      Dependencies:
+        Dependency_0: assets_assetshotupdate_lua_gamelogic_popitems_view.bundle
+        Dependency_1: assets_assetshotupdate_game_assets_popitems_materials_base_color.bundle
+        Dependency_2: assets_assetshotupdate_game_assets_popitems_meshcollider_chopsticks_holder_collider.bundle
+        Dependency_3: share_assets_assetstest_food_pack-demo_mesh.bundle
+    Info_101:
+      Name: assets_assetshotupdate_game_assets_popitems_prefabswithcolliders_food_10.bundle
+      Dependencies:
+        Dependency_0: assets_assetshotupdate_lua_gamelogic_popitems_view.bundle
+        Dependency_1: assets_assetshotupdate_game_assets_popitems_materials_base_color.bundle
+        Dependency_2: assets_assetshotupdate_game_assets_popitems_meshcollider_coffee_cup_collider.bundle
+        Dependency_3: share_assets_assetstest_food_pack-demo_mesh.bundle
+    Info_102:
+      Name: assets_assetshotupdate_game_assets_popitems_prefabswithcolliders_food_11.bundle
+      Dependencies:
+        Dependency_0: assets_assetshotupdate_lua_gamelogic_popitems_view.bundle
+        Dependency_1: assets_assetshotupdate_game_assets_popitems_materials_base_color.bundle
+        Dependency_2: assets_assetshotupdate_game_assets_popitems_meshcollider_cookies_collider.bundle
+        Dependency_3: share_assets_assetstest_food_pack-demo_mesh.bundle
+    Info_103:
+      Name: assets_assetshotupdate_game_assets_popitems_prefabswithcolliders_food_12.bundle
+      Dependencies:
+        Dependency_0: assets_assetshotupdate_lua_gamelogic_popitems_view.bundle
+        Dependency_1: assets_assetshotupdate_game_assets_popitems_materials_base_color.bundle
+        Dependency_2: assets_assetshotupdate_game_assets_popitems_meshcollider_curry_plate_collider.bundle
+        Dependency_3: share_assets_assetstest_food_pack-demo_mesh.bundle
+    Info_104:
+      Name: assets_assetshotupdate_game_assets_popitems_prefabswithcolliders_food_13.bundle
+      Dependencies:
+        Dependency_0: assets_assetshotupdate_lua_gamelogic_popitems_view.bundle
+        Dependency_1: assets_assetshotupdate_game_assets_popitems_materials_base_color.bundle
+        Dependency_2: assets_assetshotupdate_game_assets_popitems_meshcollider_doughnut_collider.bundle
+        Dependency_3: share_assets_assetstest_food_pack-demo_mesh.bundle
+    Info_105:
+      Name: assets_assetshotupdate_game_assets_popitems_prefabswithcolliders_food_14.bundle
+      Dependencies:
+        Dependency_0: assets_assetshotupdate_lua_gamelogic_popitems_view.bundle
+        Dependency_1: assets_assetshotupdate_game_assets_popitems_materials_base_color.bundle
+        Dependency_2: assets_assetshotupdate_game_assets_popitems_meshcollider_doughnut_collider.bundle
+        Dependency_3: share_assets_assetstest_food_pack-demo_mesh.bundle
+    Info_106:
+      Name: assets_assetshotupdate_game_assets_popitems_prefabswithcolliders_food_15.bundle
+      Dependencies:
+        Dependency_0: assets_assetshotupdate_lua_gamelogic_popitems_view.bundle
+        Dependency_1: assets_assetshotupdate_game_assets_popitems_materials_base_color.bundle
+        Dependency_2: assets_assetshotupdate_game_assets_popitems_materials_glass.bundle
+        Dependency_3: assets_assetshotupdate_game_assets_popitems_meshcollider_frappe_b_collider_1.bundle
+        Dependency_4: assets_assetshotupdate_game_assets_popitems_meshcollider_frappe_b_collider_2.bundle
+        Dependency_5: share_assets_assetstest_food_pack-demo_mesh.bundle
+    Info_107:
+      Name: assets_assetshotupdate_game_assets_popitems_prefabswithcolliders_food_16.bundle
+      Dependencies:
+        Dependency_0: assets_assetshotupdate_lua_gamelogic_popitems_view.bundle
+        Dependency_1: assets_assetshotupdate_game_assets_popitems_materials_base_color.bundle
+        Dependency_2: assets_assetshotupdate_game_assets_popitems_meshcollider_hotdog_collider.bundle
+        Dependency_3: share_assets_assetstest_food_pack-demo_mesh.bundle
+    Info_108:
+      Name: assets_assetshotupdate_game_assets_popitems_prefabswithcolliders_food_17.bundle
+      Dependencies:
+        Dependency_0: assets_assetshotupdate_lua_gamelogic_popitems_view.bundle
+        Dependency_1: assets_assetshotupdate_game_assets_popitems_materials_base_color.bundle
+        Dependency_2: assets_assetshotupdate_game_assets_popitems_meshcollider_ice_cream_stick_b_to_h_collider.bundle
+        Dependency_3: share_assets_assetstest_food_pack-demo_mesh.bundle
+    Info_109:
+      Name: assets_assetshotupdate_game_assets_popitems_prefabswithcolliders_food_18.bundle
+      Dependencies:
+        Dependency_0: assets_assetshotupdate_lua_gamelogic_popitems_view.bundle
+        Dependency_1: assets_assetshotupdate_game_assets_popitems_materials_base_color.bundle
+        Dependency_2: assets_assetshotupdate_game_assets_popitems_meshcollider_ketchup+mustard_plastic_bottle_collider.bundle
+        Dependency_3: share_assets_assetstest_food_pack-demo_mesh.bundle
+    Info_110:
+      Name: assets_assetshotupdate_game_assets_popitems_prefabswithcolliders_food_19.bundle
+      Dependencies:
+        Dependency_0: assets_assetshotupdate_lua_gamelogic_popitems_view.bundle
+        Dependency_1: assets_assetshotupdate_game_assets_popitems_materials_base_color.bundle
+        Dependency_2: assets_assetshotupdate_game_assets_popitems_meshcollider_lamb_chop_collider.bundle
+        Dependency_3: share_assets_assetstest_food_pack-demo_mesh.bundle
+    Info_111:
+      Name: assets_assetshotupdate_game_assets_popitems_prefabswithcolliders_food_20.bundle
+      Dependencies:
+        Dependency_0: assets_assetshotupdate_lua_gamelogic_popitems_view.bundle
+        Dependency_1: assets_assetshotupdate_game_assets_popitems_materials_base_color.bundle
+        Dependency_2: assets_assetshotupdate_game_assets_popitems_meshcollider_lamb_chop_collider.bundle
+        Dependency_3: share_assets_assetstest_food_pack-demo_mesh.bundle
+    Info_112:
+      Name: assets_assetshotupdate_game_assets_popitems_prefabswithcolliders_food_21.bundle
+      Dependencies:
+        Dependency_0: assets_assetshotupdate_lua_gamelogic_popitems_view.bundle
+        Dependency_1: assets_assetshotupdate_game_assets_popitems_materials_base_color.bundle
+        Dependency_2: assets_assetshotupdate_game_assets_popitems_meshcollider_lamb_leg_collider.bundle
+        Dependency_3: share_assets_assetstest_food_pack-demo_mesh.bundle
+    Info_113:
+      Name: assets_assetshotupdate_game_assets_popitems_prefabswithcolliders_food_22.bundle
+      Dependencies:
+        Dependency_0: assets_assetshotupdate_lua_gamelogic_popitems_view.bundle
+        Dependency_1: assets_assetshotupdate_game_assets_popitems_materials_base_color.bundle
+        Dependency_2: assets_assetshotupdate_game_assets_popitems_meshcollider_maki_1_collider.bundle
+        Dependency_3: share_assets_assetstest_food_pack-demo_mesh.bundle
+    Info_114:
+      Name: assets_assetshotupdate_game_assets_popitems_prefabswithcolliders_food_23.bundle
+      Dependencies:
+        Dependency_0: assets_assetshotupdate_lua_gamelogic_popitems_view.bundle
+        Dependency_1: assets_assetshotupdate_game_assets_popitems_materials_base_color.bundle
+        Dependency_2: assets_assetshotupdate_game_assets_popitems_meshcollider_melon_half_collider.bundle
+        Dependency_3: share_assets_assetstest_food_pack-demo_mesh.bundle
+    Info_115:
+      Name: assets_assetshotupdate_game_assets_popitems_prefabswithcolliders_food_24.bundle
+      Dependencies:
+        Dependency_0: assets_assetshotupdate_lua_gamelogic_popitems_view.bundle
+        Dependency_1: assets_assetshotupdate_game_assets_popitems_materials_base_color.bundle
+        Dependency_2: assets_assetshotupdate_game_assets_popitems_meshcollider_melon_piece_collider.bundle
+        Dependency_3: share_assets_assetstest_food_pack-demo_mesh.bundle
+    Info_116:
+      Name: assets_assetshotupdate_game_assets_popitems_prefabswithcolliders_food_25.bundle
+      Dependencies:
+        Dependency_0: assets_assetshotupdate_lua_gamelogic_popitems_view.bundle
+        Dependency_1: assets_assetshotupdate_game_assets_popitems_materials_base_color.bundle
+        Dependency_2: assets_assetshotupdate_game_assets_popitems_meshcollider_melon_collider.bundle
+        Dependency_3: share_assets_assetstest_food_pack-demo_mesh.bundle
+    Info_117:
+      Name: assets_assetshotupdate_game_assets_popitems_prefabswithcolliders_food_26.bundle
+      Dependencies:
+        Dependency_0: assets_assetshotupdate_lua_gamelogic_popitems_view.bundle
+        Dependency_1: assets_assetshotupdate_game_assets_popitems_materials_base_color.bundle
+        Dependency_2: assets_assetshotupdate_game_assets_popitems_meshcollider_peach_half_collider.bundle
+        Dependency_3: share_assets_assetstest_food_pack-demo_mesh.bundle
+    Info_118:
+      Name: assets_assetshotupdate_game_assets_popitems_prefabswithcolliders_food_27.bundle
+      Dependencies:
+        Dependency_0: assets_assetshotupdate_lua_gamelogic_popitems_view.bundle
+        Dependency_1: assets_assetshotupdate_game_assets_popitems_materials_base_color.bundle
+        Dependency_2: assets_assetshotupdate_game_assets_popitems_meshcollider_peach_half_collider.bundle
+        Dependency_3: share_assets_assetstest_food_pack-demo_mesh.bundle
+    Info_119:
+      Name: assets_assetshotupdate_game_assets_popitems_prefabswithcolliders_food_28.bundle
+      Dependencies:
+        Dependency_0: assets_assetshotupdate_lua_gamelogic_popitems_view.bundle
+        Dependency_1: assets_assetshotupdate_game_assets_popitems_materials_base_color.bundle
+        Dependency_2: assets_assetshotupdate_game_assets_popitems_meshcollider_peach_slice_collider.bundle
+        Dependency_3: share_assets_assetstest_food_pack-demo_mesh.bundle
+    Info_120:
+      Name: assets_assetshotupdate_game_assets_popitems_prefabswithcolliders_food_29.bundle
+      Dependencies:
+        Dependency_0: assets_assetshotupdate_lua_gamelogic_popitems_view.bundle
+        Dependency_1: assets_assetshotupdate_game_assets_popitems_materials_base_color.bundle
+        Dependency_2: assets_assetshotupdate_game_assets_popitems_meshcollider_peach_collider.bundle
+        Dependency_3: share_assets_assetstest_food_pack-demo_mesh.bundle
+    Info_121:
+      Name: assets_assetshotupdate_game_assets_popitems_prefabswithcolliders_food_30.bundle
+      Dependencies:
+        Dependency_0: assets_assetshotupdate_lua_gamelogic_popitems_view.bundle
+        Dependency_1: assets_assetshotupdate_game_assets_popitems_materials_base_color.bundle
+        Dependency_2: assets_assetshotupdate_game_assets_popitems_meshcollider_pizza_cut_collider.bundle
+        Dependency_3: share_assets_assetstest_food_pack-demo_mesh.bundle
+    Info_122:
+      Name: assets_assetshotupdate_game_assets_popitems_prefabswithcolliders_food_31.bundle
+      Dependencies:
+        Dependency_0: assets_assetshotupdate_lua_gamelogic_popitems_view.bundle
+        Dependency_1: assets_assetshotupdate_game_assets_popitems_materials_base_color.bundle
+        Dependency_2: assets_assetshotupdate_game_assets_popitems_meshcollider_pizza_slice_collider.bundle
+        Dependency_3: share_assets_assetstest_food_pack-demo_mesh.bundle
+    Info_123:
+      Name: assets_assetshotupdate_game_assets_popitems_prefabswithcolliders_food_32.bundle
+      Dependencies:
+        Dependency_0: assets_assetshotupdate_lua_gamelogic_popitems_view.bundle
+        Dependency_1: assets_assetshotupdate_game_assets_popitems_materials_base_color.bundle
+        Dependency_2: assets_assetshotupdate_game_assets_popitems_meshcollider_pizza_collider.bundle
+        Dependency_3: share_assets_assetstest_food_pack-demo_mesh.bundle
+    Info_124:
+      Name: assets_assetshotupdate_game_assets_popitems_prefabswithcolliders_food_33.bundle
+      Dependencies:
+        Dependency_0: assets_assetshotupdate_lua_gamelogic_popitems_view.bundle
+        Dependency_1: assets_assetshotupdate_game_assets_popitems_materials_base_color.bundle
+        Dependency_2: assets_assetshotupdate_game_assets_popitems_meshcollider_pretzel_collider.bundle
+        Dependency_3: share_assets_assetstest_food_pack-demo_mesh.bundle
+    Info_125:
+      Name: assets_assetshotupdate_game_assets_popitems_prefabswithcolliders_food_34.bundle
+      Dependencies:
+        Dependency_0: assets_assetshotupdate_lua_gamelogic_popitems_view.bundle
+        Dependency_1: assets_assetshotupdate_game_assets_popitems_materials_base_color.bundle
+        Dependency_2: assets_assetshotupdate_game_assets_popitems_meshcollider_sake_cup_b+c_collider.bundle
+        Dependency_3: share_assets_assetstest_food_pack-demo_mesh.bundle
+    Info_126:
+      Name: assets_assetshotupdate_game_assets_popitems_prefabswithcolliders_food_35.bundle
+      Dependencies:
+        Dependency_0: assets_assetshotupdate_lua_gamelogic_popitems_view.bundle
+        Dependency_1: assets_assetshotupdate_game_assets_popitems_materials_base_color.bundle
+        Dependency_2: assets_assetshotupdate_game_assets_popitems_meshcollider_sake_pot_c_collider.bundle
+        Dependency_3: share_assets_assetstest_food_pack-demo_mesh.bundle
+    Info_127:
+      Name: assets_assetshotupdate_game_assets_popitems_prefabswithcolliders_food_36.bundle
+      Dependencies:
+        Dependency_0: assets_assetshotupdate_lua_gamelogic_popitems_view.bundle
+        Dependency_1: assets_assetshotupdate_game_assets_popitems_materials_base_color.bundle
+        Dependency_2: assets_assetshotupdate_game_assets_popitems_meshcollider_salami_a_collider.bundle
+        Dependency_3: share_assets_assetstest_food_pack-demo_mesh.bundle
+    Info_128:
+      Name: assets_assetshotupdate_game_assets_popitems_prefabswithcolliders_food_37.bundle
+      Dependencies:
+        Dependency_0: assets_assetshotupdate_lua_gamelogic_popitems_view.bundle
+        Dependency_1: assets_assetshotupdate_game_assets_popitems_materials_base_color.bundle
+        Dependency_2: assets_assetshotupdate_game_assets_popitems_meshcollider_salami_cut_a_collider.bundle
+        Dependency_3: share_assets_assetstest_food_pack-demo_mesh.bundle
+    Info_129:
+      Name: assets_assetshotupdate_game_assets_popitems_prefabswithcolliders_food_38.bundle
+      Dependencies:
+        Dependency_0: assets_assetshotupdate_lua_gamelogic_popitems_view.bundle
+        Dependency_1: assets_assetshotupdate_game_assets_popitems_materials_base_color.bundle
+        Dependency_2: assets_assetshotupdate_game_assets_popitems_meshcollider_salami_slice_a_collider.bundle
+        Dependency_3: share_assets_assetstest_food_pack-demo_mesh.bundle
+    Info_130:
+      Name: assets_assetshotupdate_game_assets_popitems_prefabswithcolliders_food_39.bundle
+      Dependencies:
+        Dependency_0: assets_assetshotupdate_lua_gamelogic_popitems_view.bundle
+        Dependency_1: assets_assetshotupdate_game_assets_popitems_materials_base_color.bundle
+        Dependency_2: assets_assetshotupdate_game_assets_popitems_meshcollider_salmon_cut_collider.bundle
+        Dependency_3: share_assets_assetstest_food_pack-demo_mesh.bundle
+    Info_131:
+      Name: assets_assetshotupdate_game_assets_popitems_prefabswithcolliders_food_40.bundle
+      Dependencies:
+        Dependency_0: assets_assetshotupdate_lua_gamelogic_popitems_view.bundle
+        Dependency_1: assets_assetshotupdate_game_assets_popitems_materials_base_color.bundle
+        Dependency_2: assets_assetshotupdate_game_assets_popitems_meshcollider_salmon_fillet_collider.bundle
+        Dependency_3: share_assets_assetstest_food_pack-demo_mesh.bundle
+    Info_132:
+      Name: assets_assetshotupdate_game_assets_popitems_prefabswithcolliders_food_41.bundle
+      Dependencies:
+        Dependency_0: assets_assetshotupdate_lua_gamelogic_popitems_view.bundle
+        Dependency_1: assets_assetshotupdate_game_assets_popitems_materials_base_color.bundle
+        Dependency_2: assets_assetshotupdate_game_assets_popitems_materials_glass.bundle
+        Dependency_3: assets_assetshotupdate_game_assets_popitems_meshcollider_salmon_plastic_tray_collider.bundle
+        Dependency_4: share_assets_assetstest_food_pack-demo_mesh.bundle
+    Info_133:
+      Name: assets_assetshotupdate_game_assets_popitems_prefabswithcolliders_food_42.bundle
+      Dependencies:
+        Dependency_0: assets_assetshotupdate_lua_gamelogic_popitems_view.bundle
+        Dependency_1: assets_assetshotupdate_game_assets_popitems_materials_base_color.bundle
+        Dependency_2: assets_assetshotupdate_game_assets_popitems_meshcollider_salmon_skeleton_collider.bundle
+        Dependency_3: share_assets_assetstest_food_pack-demo_mesh.bundle
+    Info_134:
+      Name: assets_assetshotupdate_game_assets_popitems_prefabswithcolliders_food_43.bundle
+      Dependencies:
+        Dependency_0: assets_assetshotupdate_lua_gamelogic_popitems_view.bundle
+        Dependency_1: assets_assetshotupdate_game_assets_popitems_materials_base_color.bundle
+        Dependency_2: assets_assetshotupdate_game_assets_popitems_meshcollider_salmon_collider.bundle
+        Dependency_3: share_assets_assetstest_food_pack-demo_mesh.bundle
+    Info_135:
+      Name: assets_assetshotupdate_game_assets_popitems_prefabswithcolliders_food_44.bundle
+      Dependencies:
+        Dependency_0: assets_assetshotupdate_lua_gamelogic_popitems_view.bundle
+        Dependency_1: assets_assetshotupdate_game_assets_popitems_materials_base_color.bundle
+        Dependency_2: assets_assetshotupdate_game_assets_popitems_meshcollider_skewer_c_collider.bundle
+        Dependency_3: share_assets_assetstest_food_pack-demo_mesh.bundle
+    Info_136:
+      Name: assets_assetshotupdate_game_assets_popitems_prefabswithcolliders_food_45.bundle
+      Dependencies:
+        Dependency_0: assets_assetshotupdate_lua_gamelogic_popitems_view.bundle
+        Dependency_1: assets_assetshotupdate_game_assets_popitems_materials_base_color.bundle
+        Dependency_2: assets_assetshotupdate_game_assets_popitems_materials_glass.bundle
+        Dependency_3: assets_assetshotupdate_game_assets_popitems_meshcollider_soda_bottle_glass_collider.bundle
+        Dependency_4: share_assets_assetstest_food_pack-demo_mesh.bundle
+    Info_137:
+      Name: assets_assetshotupdate_game_assets_popitems_prefabswithcolliders_food_46.bundle
+      Dependencies:
+        Dependency_0: assets_assetshotupdate_lua_gamelogic_popitems_view.bundle
+        Dependency_1: assets_assetshotupdate_game_assets_popitems_materials_base_color.bundle
+        Dependency_2: assets_assetshotupdate_game_assets_popitems_meshcollider_soda_can_collider.bundle
+        Dependency_3: share_assets_assetstest_food_pack-demo_mesh.bundle
+    Info_138:
+      Name: assets_assetshotupdate_game_assets_popitems_prefabswithcolliders_food_47.bundle
+      Dependencies:
+        Dependency_0: assets_assetshotupdate_lua_gamelogic_popitems_view.bundle
+        Dependency_1: assets_assetshotupdate_game_assets_popitems_materials_base_color.bundle
+        Dependency_2: assets_assetshotupdate_game_assets_popitems_meshcollider_sushi_wood_table_collider.bundle
+        Dependency_3: share_assets_assetstest_food_pack-demo_mesh.bundle
+    Info_139:
+      Name: assets_assetshotupdate_game_assets_popitems_prefabswithcolliders_food_48.bundle
+      Dependencies:
+        Dependency_0: assets_assetshotupdate_lua_gamelogic_popitems_view.bundle
+        Dependency_1: assets_assetshotupdate_game_assets_popitems_materials_base_color.bundle
+        Dependency_2: assets_assetshotupdate_game_assets_popitems_meshcollider_swirl_lollipop_collider.bundle
+        Dependency_3: share_assets_assetstest_food_pack-demo_mesh.bundle
+    Info_140:
+      Name: assets_assetshotupdate_game_assets_popitems_prefabswithcolliders_food_49.bundle
+      Dependencies:
+        Dependency_0: assets_assetshotupdate_lua_gamelogic_popitems_view.bundle
+        Dependency_1: assets_assetshotupdate_game_assets_popitems_materials_base_color.bundle
+        Dependency_2: assets_assetshotupdate_game_assets_popitems_meshcollider_tamago_collider.bundle
+        Dependency_3: share_assets_assetstest_food_pack-demo_mesh.bundle
+    Info_141:
+      Name: assets_assetshotupdate_game_assets_popitems_prefabswithcolliders_food_50.bundle
+      Dependencies:
+        Dependency_0: assets_assetshotupdate_lua_gamelogic_popitems_view.bundle
+        Dependency_1: assets_assetshotupdate_game_assets_popitems_materials_base_color.bundle
+        Dependency_2: assets_assetshotupdate_game_assets_popitems_meshcollider_tomato_half_collider.bundle
+        Dependency_3: share_assets_assetstest_food_pack-demo_mesh.bundle
+    Info_142:
+      Name: assets_assetshotupdate_game_assets_popitems_prefabswithcolliders_food_51.bundle
+      Dependencies:
+        Dependency_0: assets_assetshotupdate_lua_gamelogic_popitems_view.bundle
+        Dependency_1: assets_assetshotupdate_game_assets_popitems_materials_base_color.bundle
+        Dependency_2: assets_assetshotupdate_game_assets_popitems_meshcollider_tomato_quarter_collider.bundle
+        Dependency_3: share_assets_assetstest_food_pack-demo_mesh.bundle
+    Info_143:
+      Name: assets_assetshotupdate_game_assets_popitems_prefabswithcolliders_food_52.bundle
+      Dependencies:
+        Dependency_0: assets_assetshotupdate_lua_gamelogic_popitems_view.bundle
+        Dependency_1: assets_assetshotupdate_game_assets_popitems_materials_base_color.bundle
+        Dependency_2: assets_assetshotupdate_game_assets_popitems_meshcollider_tomato_collider.bundle
+        Dependency_3: share_assets_assetstest_food_pack-demo_mesh.bundle
+    Info_144:
+      Name: assets_assetshotupdate_game_assets_popitems_prefabswithcolliders_food_53.bundle
+      Dependencies:
+        Dependency_0: assets_assetshotupdate_lua_gamelogic_popitems_view.bundle
+        Dependency_1: assets_assetshotupdate_game_assets_popitems_materials_base_color.bundle
+        Dependency_2: assets_assetshotupdate_game_assets_popitems_meshcollider_udon_collider.bundle
+        Dependency_3: share_assets_assetstest_food_pack-demo_mesh.bundle
+    Info_145:
+      Name: assets_assetshotupdate_game_assets_popitems_prefabswithcolliders_food_54.bundle
+      Dependencies:
+        Dependency_0: assets_assetshotupdate_lua_gamelogic_popitems_view.bundle
+        Dependency_1: assets_assetshotupdate_game_assets_popitems_materials_base_color.bundle
+        Dependency_2: assets_assetshotupdate_game_assets_popitems_meshcollider_unagi_collider.bundle
+        Dependency_3: share_assets_assetstest_food_pack-demo_mesh.bundle
+    Info_146:
+      Name: assets_assetshotupdate_game_assets_popitems_prefabswithcolliders_food_55.bundle
+      Dependencies:
+        Dependency_0: assets_assetshotupdate_lua_gamelogic_popitems_view.bundle
+        Dependency_1: assets_assetshotupdate_game_assets_popitems_materials_base_color.bundle
+        Dependency_2: assets_assetshotupdate_game_assets_popitems_meshcollider_wasabi_collider.bundle
+        Dependency_3: share_assets_assetstest_food_pack-demo_mesh.bundle
+    Info_147:
+      Name: assets_assetshotupdate_game_assets_popitems_texture_texture.bundle
+      Dependencies: {}
+    Info_148:
+      Name: share_assets_assetstest_ui_pack_button.bundle
+      Dependencies: {}
+    Info_149:
+      Name: unityshaders.bundle
+      Dependencies: {}
+    Info_150:
+      Name: share_packages_com_unity_render-pipelines_universal_runtime_materials.bundle
+      Dependencies:
+        Dependency_0: unityshaders.bundle
+    Info_151:
+      Name: share_assets_assetstest_food_pack-demo_mesh.bundle
+      Dependencies: {}

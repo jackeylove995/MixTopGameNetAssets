@@ -1,0 +1,3685 @@
+{
+    "FileVersion": "2.3.1",
+    "EnableAddressable": false,
+    "LocationToLower": false,
+    "IncludeAssetGUID": false,
+    "OutputNameStyle": 0,
+    "BuildBundleType": 2,
+    "BuildPipeline": "BuiltinBuildPipeline",
+    "PackageName": "MTG_P",
+    "PackageVersion": "2025-04-05-1125",
+    "PackageNote": "2025/4/5 18:46:04",
+    "AssetList": [
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/AABase/BasePanel.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/AABase/BtnBase.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0,
+            "DependBundleIDs": [
+                149
+            ]
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/Game/Art/Game_Bg.jpg",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/Game/GamePanel.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 1,
+            "DependBundleIDs": [
+                0,
+                142
+            ]
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/Login/login_bg.jpg",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 3,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/Login/LoginPanel.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 3,
+            "DependBundleIDs": [
+                0,
+                144,
+                149
+            ]
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/PopItems/Materials/Base color.mat",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 4,
+            "DependBundleIDs": [
+                128,
+                151
+            ]
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/PopItems/Materials/Glass.mat",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 5,
+            "DependBundleIDs": [
+                151
+            ]
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/PopItems/Materials/Ground.mat",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 6,
+            "DependBundleIDs": [
+                151
+            ]
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/PopItems/MeshCollider/Bell pepper green slice_collider.fbx",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 8,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/PopItems/MeshCollider/Bell pepper_collider.fbx",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 7,
+            "DependBundleIDs": [
+                150,
+                151
+            ]
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/PopItems/MeshCollider/Bundt Cake cut_collider 1.fbx",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 10,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/PopItems/MeshCollider/Bundt Cake cut_collider 2.fbx",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 11,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/PopItems/MeshCollider/Bundt Cake Piece_collider.fbx",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 12,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/PopItems/MeshCollider/Bundt Cake_collider.fbx",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 9,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/PopItems/MeshCollider/Candy Cane_collider 1.fbx",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 13,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/PopItems/MeshCollider/Candy Cane_collider 2.fbx",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 14,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/PopItems/MeshCollider/Cheesecake_collider.fbx",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 15,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/PopItems/MeshCollider/Chopsticks A+B_collider.fbx",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 16,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/PopItems/MeshCollider/Chopsticks holder_collider.fbx",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 17,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/PopItems/MeshCollider/Coffee Cup_collider.fbx",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 18,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/PopItems/MeshCollider/Cookies_collider.fbx",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 19,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/PopItems/MeshCollider/Curry plate_collider.fbx",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 20,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/PopItems/MeshCollider/Doughnut_collider.fbx",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 21,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/PopItems/MeshCollider/Frappe B_collider 1.fbx",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 22,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/PopItems/MeshCollider/Frappe B_collider 2.fbx",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 23,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/PopItems/MeshCollider/Hotdog_collider.fbx",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 24,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/PopItems/MeshCollider/Ice cream stick B to H_collider.fbx",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 25,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/PopItems/MeshCollider/Ketchup+Mustard Plastic Bottle_collider.fbx",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 26,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/PopItems/MeshCollider/Lamb Chop Cooked.fbx",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 29,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/PopItems/MeshCollider/Lamb Chop.fbx",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 27,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/PopItems/MeshCollider/Lamb Chop_collider.fbx",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 28,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/PopItems/MeshCollider/Lamb leg.fbx",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 30,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/PopItems/MeshCollider/Lamb leg_collider.fbx",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 31,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/PopItems/MeshCollider/Maki 1_collider.fbx",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 32,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/PopItems/MeshCollider/Melon half_collider.fbx",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 34,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/PopItems/MeshCollider/Melon Piece_collider.fbx",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 35,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/PopItems/MeshCollider/Melon_collider.fbx",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 33,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/PopItems/MeshCollider/Peach half_collider.fbx",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 37,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/PopItems/MeshCollider/Peach slice_collider.fbx",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 38,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/PopItems/MeshCollider/Peach_collider.fbx",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 36,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/PopItems/MeshCollider/Pizza cut_collider.fbx",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 40,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/PopItems/MeshCollider/Pizza Slice_collider.fbx",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 41,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/PopItems/MeshCollider/Pizza_collider.fbx",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 39,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/PopItems/MeshCollider/Pretzel_collider.fbx",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 42,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/PopItems/MeshCollider/Sake cup B+C_collider.fbx",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 43,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/PopItems/MeshCollider/Sake Pot C_collider.fbx",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 44,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/PopItems/MeshCollider/Salami A.fbx",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 45,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/PopItems/MeshCollider/Salami A_collider.fbx",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 46,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/PopItems/MeshCollider/Salami cut A.fbx",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 47,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/PopItems/MeshCollider/Salami cut A_collider.fbx",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 48,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/PopItems/MeshCollider/Salami slice A.fbx",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 49,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/PopItems/MeshCollider/Salami slice A_collider.fbx",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 50,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/PopItems/MeshCollider/Salmon Cut.fbx",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 53,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/PopItems/MeshCollider/Salmon Cut_collider.fbx",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 54,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/PopItems/MeshCollider/Salmon fillet.fbx",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 55,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/PopItems/MeshCollider/Salmon fillet_collider.fbx",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 56,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/PopItems/MeshCollider/Salmon plastic tray.fbx",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 57,
+            "DependBundleIDs": [
+                151
+            ]
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/PopItems/MeshCollider/Salmon plastic tray_collider.fbx",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 58,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/PopItems/MeshCollider/Salmon skeleton.fbx",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 59,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/PopItems/MeshCollider/Salmon skeleton_collider.fbx",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 60,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/PopItems/MeshCollider/Salmon.fbx",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 51,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/PopItems/MeshCollider/Salmon_collider.fbx",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 52,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/PopItems/MeshCollider/Skewer C_collider.fbx",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 61,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/PopItems/MeshCollider/Soda bottle Glass_collider.fbx",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 62,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/PopItems/MeshCollider/Soda can_collider.fbx",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 63,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/PopItems/MeshCollider/Sushi Wood Table_collider.fbx",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 64,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/PopItems/MeshCollider/Swirl lollipop_collider.fbx",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 65,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/PopItems/MeshCollider/Tamago_collider.fbx",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 66,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/PopItems/MeshCollider/Tomato Half_collider.fbx",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 68,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/PopItems/MeshCollider/Tomato Quarter_collider.fbx",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 69,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/PopItems/MeshCollider/Tomato_collider.fbx",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 67,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/PopItems/MeshCollider/Udon_collider.fbx",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 70,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/PopItems/MeshCollider/Unagi_collider.fbx",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 71,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/PopItems/MeshCollider/Wasabi_collider.fbx",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 72,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/PopItems/PrefabsWithColliders/Food_1.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 73,
+            "DependBundleIDs": [
+                4,
+                8,
+                128,
+                147,
+                148,
+                151
+            ]
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/PopItems/PrefabsWithColliders/Food_10.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 74,
+            "DependBundleIDs": [
+                4,
+                18,
+                128,
+                147,
+                148,
+                151
+            ]
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/PopItems/PrefabsWithColliders/Food_11.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 75,
+            "DependBundleIDs": [
+                4,
+                19,
+                128,
+                147,
+                148,
+                151
+            ]
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/PopItems/PrefabsWithColliders/Food_12.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 76,
+            "DependBundleIDs": [
+                4,
+                20,
+                128,
+                147,
+                148,
+                151
+            ]
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/PopItems/PrefabsWithColliders/Food_13.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 77,
+            "DependBundleIDs": [
+                4,
+                21,
+                128,
+                147,
+                148,
+                151
+            ]
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/PopItems/PrefabsWithColliders/Food_14.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 78,
+            "DependBundleIDs": [
+                4,
+                21,
+                128,
+                147,
+                148,
+                151
+            ]
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/PopItems/PrefabsWithColliders/Food_15.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 79,
+            "DependBundleIDs": [
+                4,
+                5,
+                22,
+                23,
+                128,
+                147,
+                148,
+                151
+            ]
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/PopItems/PrefabsWithColliders/Food_16.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 80,
+            "DependBundleIDs": [
+                4,
+                24,
+                128,
+                147,
+                148,
+                151
+            ]
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/PopItems/PrefabsWithColliders/Food_17.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 81,
+            "DependBundleIDs": [
+                4,
+                25,
+                128,
+                147,
+                148,
+                151
+            ]
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/PopItems/PrefabsWithColliders/Food_18.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 82,
+            "DependBundleIDs": [
+                4,
+                26,
+                128,
+                147,
+                148,
+                151
+            ]
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/PopItems/PrefabsWithColliders/Food_19.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 83,
+            "DependBundleIDs": [
+                4,
+                28,
+                128,
+                147,
+                148,
+                151
+            ]
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/PopItems/PrefabsWithColliders/Food_2.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 84,
+            "DependBundleIDs": [
+                4,
+                7,
+                128,
+                147,
+                148,
+                150,
+                151
+            ]
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/PopItems/PrefabsWithColliders/Food_20.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 85,
+            "DependBundleIDs": [
+                4,
+                28,
+                128,
+                147,
+                148,
+                151
+            ]
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/PopItems/PrefabsWithColliders/Food_21.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 86,
+            "DependBundleIDs": [
+                4,
+                31,
+                128,
+                147,
+                148,
+                151
+            ]
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/PopItems/PrefabsWithColliders/Food_22.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 87,
+            "DependBundleIDs": [
+                4,
+                32,
+                128,
+                147,
+                148,
+                151
+            ]
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/PopItems/PrefabsWithColliders/Food_23.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 88,
+            "DependBundleIDs": [
+                4,
+                34,
+                128,
+                147,
+                148,
+                151
+            ]
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/PopItems/PrefabsWithColliders/Food_24.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 89,
+            "DependBundleIDs": [
+                4,
+                35,
+                128,
+                147,
+                148,
+                151
+            ]
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/PopItems/PrefabsWithColliders/Food_25.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 90,
+            "DependBundleIDs": [
+                4,
+                33,
+                128,
+                147,
+                148,
+                151
+            ]
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/PopItems/PrefabsWithColliders/Food_26.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 91,
+            "DependBundleIDs": [
+                4,
+                37,
+                128,
+                147,
+                148,
+                151
+            ]
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/PopItems/PrefabsWithColliders/Food_27.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 92,
+            "DependBundleIDs": [
+                4,
+                37,
+                128,
+                147,
+                148,
+                151
+            ]
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/PopItems/PrefabsWithColliders/Food_28.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 93,
+            "DependBundleIDs": [
+                4,
+                38,
+                128,
+                147,
+                148,
+                151
+            ]
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/PopItems/PrefabsWithColliders/Food_29.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 94,
+            "DependBundleIDs": [
+                4,
+                36,
+                128,
+                147,
+                148,
+                151
+            ]
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/PopItems/PrefabsWithColliders/Food_3.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 95,
+            "DependBundleIDs": [
+                4,
+                10,
+                11,
+                128,
+                147,
+                148,
+                151
+            ]
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/PopItems/PrefabsWithColliders/Food_30.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 96,
+            "DependBundleIDs": [
+                4,
+                40,
+                128,
+                147,
+                148,
+                151
+            ]
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/PopItems/PrefabsWithColliders/Food_31.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 97,
+            "DependBundleIDs": [
+                4,
+                41,
+                128,
+                147,
+                148,
+                151
+            ]
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/PopItems/PrefabsWithColliders/Food_32.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 98,
+            "DependBundleIDs": [
+                4,
+                39,
+                128,
+                147,
+                148,
+                151
+            ]
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/PopItems/PrefabsWithColliders/Food_33.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 99,
+            "DependBundleIDs": [
+                4,
+                42,
+                128,
+                147,
+                148,
+                151
+            ]
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/PopItems/PrefabsWithColliders/Food_34.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 100,
+            "DependBundleIDs": [
+                4,
+                43,
+                128,
+                147,
+                148,
+                151
+            ]
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/PopItems/PrefabsWithColliders/Food_35.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 101,
+            "DependBundleIDs": [
+                4,
+                44,
+                128,
+                147,
+                148,
+                151
+            ]
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/PopItems/PrefabsWithColliders/Food_36.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 102,
+            "DependBundleIDs": [
+                4,
+                46,
+                128,
+                147,
+                148,
+                151
+            ]
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/PopItems/PrefabsWithColliders/Food_37.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 103,
+            "DependBundleIDs": [
+                4,
+                48,
+                128,
+                147,
+                148,
+                151
+            ]
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/PopItems/PrefabsWithColliders/Food_38.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 104,
+            "DependBundleIDs": [
+                4,
+                50,
+                128,
+                147,
+                148,
+                151
+            ]
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/PopItems/PrefabsWithColliders/Food_39.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 105,
+            "DependBundleIDs": [
+                4,
+                54,
+                128,
+                147,
+                148,
+                151
+            ]
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/PopItems/PrefabsWithColliders/Food_4.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 106,
+            "DependBundleIDs": [
+                4,
+                12,
+                128,
+                147,
+                148,
+                151
+            ]
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/PopItems/PrefabsWithColliders/Food_40.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 107,
+            "DependBundleIDs": [
+                4,
+                56,
+                128,
+                147,
+                148,
+                151
+            ]
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/PopItems/PrefabsWithColliders/Food_41.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 108,
+            "DependBundleIDs": [
+                4,
+                5,
+                58,
+                128,
+                147,
+                148,
+                151
+            ]
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/PopItems/PrefabsWithColliders/Food_42.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 109,
+            "DependBundleIDs": [
+                4,
+                60,
+                128,
+                147,
+                148,
+                151
+            ]
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/PopItems/PrefabsWithColliders/Food_43.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 110,
+            "DependBundleIDs": [
+                4,
+                52,
+                128,
+                147,
+                148,
+                151
+            ]
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/PopItems/PrefabsWithColliders/Food_44.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 111,
+            "DependBundleIDs": [
+                4,
+                61,
+                128,
+                147,
+                148,
+                151
+            ]
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/PopItems/PrefabsWithColliders/Food_45.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 112,
+            "DependBundleIDs": [
+                4,
+                5,
+                62,
+                128,
+                147,
+                148,
+                151
+            ]
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/PopItems/PrefabsWithColliders/Food_46.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 113,
+            "DependBundleIDs": [
+                4,
+                63,
+                128,
+                147,
+                148,
+                151
+            ]
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/PopItems/PrefabsWithColliders/Food_47.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 114,
+            "DependBundleIDs": [
+                4,
+                64,
+                128,
+                147,
+                148,
+                151
+            ]
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/PopItems/PrefabsWithColliders/Food_48.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 115,
+            "DependBundleIDs": [
+                4,
+                65,
+                128,
+                147,
+                148,
+                151
+            ]
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/PopItems/PrefabsWithColliders/Food_49.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 116,
+            "DependBundleIDs": [
+                4,
+                66,
+                128,
+                147,
+                148,
+                151
+            ]
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/PopItems/PrefabsWithColliders/Food_5.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 117,
+            "DependBundleIDs": [
+                4,
+                9,
+                128,
+                147,
+                148,
+                151
+            ]
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/PopItems/PrefabsWithColliders/Food_50.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 118,
+            "DependBundleIDs": [
+                4,
+                68,
+                128,
+                147,
+                148,
+                151
+            ]
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/PopItems/PrefabsWithColliders/Food_51.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 119,
+            "DependBundleIDs": [
+                4,
+                69,
+                128,
+                147,
+                148,
+                151
+            ]
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/PopItems/PrefabsWithColliders/Food_52.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 120,
+            "DependBundleIDs": [
+                4,
+                67,
+                128,
+                147,
+                148,
+                151
+            ]
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/PopItems/PrefabsWithColliders/Food_53.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 121,
+            "DependBundleIDs": [
+                4,
+                70,
+                128,
+                147,
+                148,
+                151
+            ]
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/PopItems/PrefabsWithColliders/Food_54.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 122,
+            "DependBundleIDs": [
+                4,
+                71,
+                128,
+                147,
+                148,
+                151
+            ]
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/PopItems/PrefabsWithColliders/Food_55.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 123,
+            "DependBundleIDs": [
+                4,
+                72,
+                128,
+                147,
+                148,
+                151
+            ]
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/PopItems/PrefabsWithColliders/Food_6.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 124,
+            "DependBundleIDs": [
+                4,
+                13,
+                14,
+                128,
+                147,
+                148,
+                151
+            ]
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/PopItems/PrefabsWithColliders/Food_7.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 125,
+            "DependBundleIDs": [
+                4,
+                15,
+                128,
+                147,
+                148,
+                151
+            ]
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/PopItems/PrefabsWithColliders/Food_8.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 126,
+            "DependBundleIDs": [
+                4,
+                16,
+                128,
+                147,
+                148,
+                151
+            ]
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/PopItems/PrefabsWithColliders/Food_9.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 127,
+            "DependBundleIDs": [
+                4,
+                17,
+                128,
+                147,
+                148,
+                151
+            ]
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Game_assets/PopItems/Texture/Texture.png",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 128,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Lua/AAA_Init/AppLifeScope.lua",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 130,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Lua/AAA_Init/CSLike/Class.lua",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 131,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Lua/AAA_Init/CSLike/MonoBehaviour.lua",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 131,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Lua/AAA_Init/Factory/Factory.lua",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 132,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Lua/AAA_Init/Factory/IFactory.lua",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 132,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Lua/AAA_Init/Global/GlobalEnum.lua",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 133,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Lua/AAA_Init/Global/GlobalFunc.lua",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 133,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Lua/AAA_Init/Global/GlobalParams.lua",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 133,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Lua/AAA_Init/Global/GlobalUtil.lua",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 133,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Lua/AAA_Init/GlobalSetManager.lua",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 130,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Lua/AAA_Init/IOC/ContainorBuilder.lua",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 134,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Lua/AAA_Init/IOC/IOC.lua",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 134,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Lua/AAA_Init/LuaBaseTypeExtension/StringExtension.lua",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 135,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Lua/AAA_Init/LuaBaseTypeExtension/TableExtension.lua",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 135,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Lua/AAA_Init/Profiler/Profiler.lua",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 136,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Lua/AddressMap/AddressMap.lua",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 137,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Lua/Configs/GoodsConfig.lua",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 138,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Lua/Configs/Language.txt",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 138,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Lua/Configs/LevelConfig.lua",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 138,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Lua/GameLogic/CMCamera/CMCameraManager.lua",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 139,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Lua/GameLogic/Game/GameContainor.lua",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 140,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Lua/GameLogic/Game/GameController.lua",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 140,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Lua/GameLogic/Game/GameDataManager.lua",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 140,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Lua/GameLogic/Game/Model/LevelModel.lua",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 141,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Lua/GameLogic/Game/ViewController/GamePanel.lua",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 142,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Lua/GameLogic/Game/ViewController/ItemsBoard.lua",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 142,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Lua/GameLogic/Login/LoginContainor.lua",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 143,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Lua/GameLogic/Login/ViewController/LoginPanel.lua",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 144,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Lua/GameLogic/PopItems/Model/ClickCheckModel.lua",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 146,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Lua/GameLogic/PopItems/Model/GoodModel.lua",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 146,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Lua/GameLogic/PopItems/PopItemsContainor.lua",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 145,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Lua/GameLogic/PopItems/View/ClickCheckItem.lua",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 147,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Lua/LuaDebug.lua",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 129,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/AssetsHotUpdate/Lua/main.lua",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 129,
+            "DependBundleIDs": []
+        }
+    ],
+    "BundleList": [
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_aabase.bundle",
+            "UnityCRC": 542910663,
+            "FileHash": "b7639584323133d7d446c89fd6772b1e",
+            "FileCRC": "820f8a65",
+            "FileSize": 6207,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": [
+                149
+            ]
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_game.bundle",
+            "UnityCRC": 3003333083,
+            "FileHash": "3b132f7d131149411bc1485f3ff28fb6",
+            "FileCRC": "48f1b1fa",
+            "FileSize": 4238,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": [
+                0,
+                142,
+                149
+            ]
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_game_art.bundle",
+            "UnityCRC": 2483750530,
+            "FileHash": "f0555eba6a5c677f7e36c5b3d2f092c2",
+            "FileCRC": "68b08b46",
+            "FileSize": 264595,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_login.bundle",
+            "UnityCRC": 3432445506,
+            "FileHash": "84450f649f68b9458be5dad14c76d705",
+            "FileCRC": "070b76ba",
+            "FileSize": 248845,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": [
+                0,
+                144,
+                149
+            ]
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_popitems_materials_base_color.bundle",
+            "UnityCRC": 2799194226,
+            "FileHash": "0fc4a42644b1e2e596a25deb01d4bde5",
+            "FileCRC": "932a8dae",
+            "FileSize": 3000,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": [
+                128,
+                151
+            ]
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_popitems_materials_glass.bundle",
+            "UnityCRC": 1762162473,
+            "FileHash": "6a230a2d9c3e4f68c55163136db72baf",
+            "FileCRC": "ff1c36ff",
+            "FileSize": 2995,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": [
+                151
+            ]
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_popitems_materials_ground.bundle",
+            "UnityCRC": 2282506106,
+            "FileHash": "f8cfcb2059a972438256807a0e8f4f12",
+            "FileCRC": "a7ca95e4",
+            "FileSize": 2881,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": [
+                151
+            ]
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_popitems_meshcollider_bell_pepper_collider.bundle",
+            "UnityCRC": 3664888033,
+            "FileHash": "683f5c6546f09aa11a9f307d8b372f8a",
+            "FileCRC": "3e0afe04",
+            "FileSize": 7049,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": [
+                150,
+                151
+            ]
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_popitems_meshcollider_bell_pepper_green_slice_collider.bundle",
+            "UnityCRC": 1777736708,
+            "FileHash": "15e9abf04a3e2d43781f79f7c970d154",
+            "FileCRC": "fe0f034e",
+            "FileSize": 80293,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_popitems_meshcollider_bundt_cake_collider.bundle",
+            "UnityCRC": 1437089957,
+            "FileHash": "a799574863dbbfd2aa8fe909f23a728a",
+            "FileCRC": "41930fff",
+            "FileSize": 80081,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_popitems_meshcollider_bundt_cake_cut_collider_1.bundle",
+            "UnityCRC": 2407821404,
+            "FileHash": "dad7e961b422d492acca68ca15437f0f",
+            "FileCRC": "3b446f31",
+            "FileSize": 80058,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_popitems_meshcollider_bundt_cake_cut_collider_2.bundle",
+            "UnityCRC": 917538323,
+            "FileHash": "3438d1fad49ba6920a2d86d7eb6ff148",
+            "FileCRC": "5eacad04",
+            "FileSize": 80136,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_popitems_meshcollider_bundt_cake_piece_collider.bundle",
+            "UnityCRC": 2427527323,
+            "FileHash": "e993cd2c9a3fb1f69326f922dcb46c40",
+            "FileCRC": "9a7b79f7",
+            "FileSize": 80201,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_popitems_meshcollider_candy_cane_collider_1.bundle",
+            "UnityCRC": 2049889279,
+            "FileHash": "64732ad58b8d797addc553f1f26fe1ab",
+            "FileCRC": "56b1ac02",
+            "FileSize": 81121,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_popitems_meshcollider_candy_cane_collider_2.bundle",
+            "UnityCRC": 2854468626,
+            "FileHash": "5724a4582d583258f59b2b0227343332",
+            "FileCRC": "425e1aae",
+            "FileSize": 80420,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_popitems_meshcollider_cheesecake_collider.bundle",
+            "UnityCRC": 4146443989,
+            "FileHash": "a5b9671ccb67eab752ddcd3933d9752b",
+            "FileCRC": "0da1b090",
+            "FileSize": 79961,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_popitems_meshcollider_chopsticks_a+b_collider.bundle",
+            "UnityCRC": 290109607,
+            "FileHash": "ffaeca1f97587258f2f40d142686d6e2",
+            "FileCRC": "4ae94290",
+            "FileSize": 79982,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_popitems_meshcollider_chopsticks_holder_collider.bundle",
+            "UnityCRC": 3717675951,
+            "FileHash": "cd38de504f3617c630e2d195b9144b48",
+            "FileCRC": "3fca15e1",
+            "FileSize": 80115,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_popitems_meshcollider_coffee_cup_collider.bundle",
+            "UnityCRC": 1695671555,
+            "FileHash": "b27918b4db70befdfaad1150f20c72fd",
+            "FileCRC": "93457803",
+            "FileSize": 80227,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_popitems_meshcollider_cookies_collider.bundle",
+            "UnityCRC": 4214715448,
+            "FileHash": "c057f8ec2f0c849049b11bd82ef52143",
+            "FileCRC": "5dd9e13f",
+            "FileSize": 80198,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_popitems_meshcollider_curry_plate_collider.bundle",
+            "UnityCRC": 2573592477,
+            "FileHash": "c09bcc6fc584a89c5905f25d1032568f",
+            "FileCRC": "bd7dfe3e",
+            "FileSize": 80196,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_popitems_meshcollider_doughnut_collider.bundle",
+            "UnityCRC": 900730225,
+            "FileHash": "3fe90efcb7e9863830840fa53cb682d8",
+            "FileCRC": "d56870ba",
+            "FileSize": 80544,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_popitems_meshcollider_frappe_b_collider_1.bundle",
+            "UnityCRC": 2583906077,
+            "FileHash": "4ee17e9092ba46e49ca2841b9b4a1a12",
+            "FileCRC": "70ac73b2",
+            "FileSize": 79908,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_popitems_meshcollider_frappe_b_collider_2.bundle",
+            "UnityCRC": 119940841,
+            "FileHash": "c4d174aaea563f1d56fc8e76bef79641",
+            "FileCRC": "5b384d53",
+            "FileSize": 80287,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_popitems_meshcollider_hotdog_collider.bundle",
+            "UnityCRC": 1864096040,
+            "FileHash": "37a924d27f279b5a218606d0f62ac2c0",
+            "FileCRC": "fd564688",
+            "FileSize": 80931,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_popitems_meshcollider_ice_cream_stick_b_to_h_collider.bundle",
+            "UnityCRC": 2071813588,
+            "FileHash": "cb037b11bfea32941a947259270930dd",
+            "FileCRC": "57ffad36",
+            "FileSize": 80020,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_popitems_meshcollider_ketchup+mustard_plastic_bottle_collider.bundle",
+            "UnityCRC": 1081461575,
+            "FileHash": "c158023d2afbb09071b7e55ea654881e",
+            "FileCRC": "1405625d",
+            "FileSize": 80161,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_popitems_meshcollider_lamb_chop.bundle",
+            "UnityCRC": 1420620792,
+            "FileHash": "cf9ccb582034dae45d740adf09543f38",
+            "FileCRC": "a0a9b51f",
+            "FileSize": 91467,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_popitems_meshcollider_lamb_chop_collider.bundle",
+            "UnityCRC": 1229737176,
+            "FileHash": "178f353a5d5ed1b22785d60825d54cdd",
+            "FileCRC": "b9696353",
+            "FileSize": 80092,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_popitems_meshcollider_lamb_chop_cooked.bundle",
+            "UnityCRC": 2247150258,
+            "FileHash": "cbd0634554a15195d82183d93849a4f1",
+            "FileCRC": "f934f228",
+            "FileSize": 91589,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_popitems_meshcollider_lamb_leg.bundle",
+            "UnityCRC": 2613907822,
+            "FileHash": "9db2b387432b38a4943a578a1f33fabb",
+            "FileCRC": "1dbd51cb",
+            "FileSize": 88778,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_popitems_meshcollider_lamb_leg_collider.bundle",
+            "UnityCRC": 3831671673,
+            "FileHash": "ea6cc0655de1e434edf2ebabf69a52d0",
+            "FileCRC": "890c260d",
+            "FileSize": 80614,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_popitems_meshcollider_maki_1_collider.bundle",
+            "UnityCRC": 335780093,
+            "FileHash": "bc6bb419c44aca789d7c4706c3c80510",
+            "FileCRC": "350e468d",
+            "FileSize": 80193,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_popitems_meshcollider_melon_collider.bundle",
+            "UnityCRC": 1313246022,
+            "FileHash": "3746455dcd62f173a60a65d2da815514",
+            "FileCRC": "4d6572d2",
+            "FileSize": 80888,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_popitems_meshcollider_melon_half_collider.bundle",
+            "UnityCRC": 584902026,
+            "FileHash": "0b29a4cf3258b620dd3b2d8a79361312",
+            "FileCRC": "fd4ed556",
+            "FileSize": 80567,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_popitems_meshcollider_melon_piece_collider.bundle",
+            "UnityCRC": 2977967506,
+            "FileHash": "a2d5d4d10623031edb56ecc24684fecd",
+            "FileCRC": "3842cab0",
+            "FileSize": 80068,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_popitems_meshcollider_peach_collider.bundle",
+            "UnityCRC": 3877558198,
+            "FileHash": "3920df17ab79e1e19f5a7a61c5d61c4b",
+            "FileCRC": "3d198918",
+            "FileSize": 80690,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_popitems_meshcollider_peach_half_collider.bundle",
+            "UnityCRC": 2092690342,
+            "FileHash": "36d021ce123cd7d3175a2633d60caeba",
+            "FileCRC": "3c4311cd",
+            "FileSize": 80525,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_popitems_meshcollider_peach_slice_collider.bundle",
+            "UnityCRC": 146339662,
+            "FileHash": "a4a1e12d850f481d719476f581fc98e1",
+            "FileCRC": "71bb34b5",
+            "FileSize": 80039,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_popitems_meshcollider_pizza_collider.bundle",
+            "UnityCRC": 3353700984,
+            "FileHash": "39eaf4ad0835e2497313c5b0ea9e4937",
+            "FileCRC": "2d0b33a5",
+            "FileSize": 80654,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_popitems_meshcollider_pizza_cut_collider.bundle",
+            "UnityCRC": 3792698351,
+            "FileHash": "95ab663afba4ceec55018be712236f09",
+            "FileCRC": "68f3d075",
+            "FileSize": 80795,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_popitems_meshcollider_pizza_slice_collider.bundle",
+            "UnityCRC": 203830731,
+            "FileHash": "6c854bc06d4939f1acddbba143041964",
+            "FileCRC": "36f4080d",
+            "FileSize": 79927,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_popitems_meshcollider_pretzel_collider.bundle",
+            "UnityCRC": 622770877,
+            "FileHash": "703ba566b9228f8f69728507c1e5e767",
+            "FileCRC": "ecff3722",
+            "FileSize": 80771,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_popitems_meshcollider_sake_cup_b+c_collider.bundle",
+            "UnityCRC": 488728300,
+            "FileHash": "2b629fa51178954a9d8c0f7eaaf037f1",
+            "FileCRC": "8952561e",
+            "FileSize": 80244,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_popitems_meshcollider_sake_pot_c_collider.bundle",
+            "UnityCRC": 273997882,
+            "FileHash": "d012e488bd78489e3dcbe15e5829f2b1",
+            "FileCRC": "41ee4920",
+            "FileSize": 80017,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_popitems_meshcollider_salami_a.bundle",
+            "UnityCRC": 1816086344,
+            "FileHash": "773d4f289e29b3f50309b159c7888599",
+            "FileCRC": "daff4c92",
+            "FileSize": 85109,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_popitems_meshcollider_salami_a_collider.bundle",
+            "UnityCRC": 3555506264,
+            "FileHash": "2b3dec9b643c3e6b1bd739fbc95c7974",
+            "FileCRC": "54ff0c93",
+            "FileSize": 80579,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_popitems_meshcollider_salami_cut_a.bundle",
+            "UnityCRC": 2497155159,
+            "FileHash": "a986daa001aefa44994a1b68dae1b4c0",
+            "FileCRC": "9a013520",
+            "FileSize": 86475,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_popitems_meshcollider_salami_cut_a_collider.bundle",
+            "UnityCRC": 1825628208,
+            "FileHash": "f550968ce57a8dde1fb3a1239ec1706f",
+            "FileCRC": "6981d3bd",
+            "FileSize": 80524,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_popitems_meshcollider_salami_slice_a.bundle",
+            "UnityCRC": 3753584863,
+            "FileHash": "b84d741bdc137c807cb15eccc0f900ea",
+            "FileCRC": "0977686a",
+            "FileSize": 86766,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_popitems_meshcollider_salami_slice_a_collider.bundle",
+            "UnityCRC": 2253113560,
+            "FileHash": "046913c35fef507af665e4b6abbd835a",
+            "FileCRC": "9771fa6c",
+            "FileSize": 79996,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_popitems_meshcollider_salmon.bundle",
+            "UnityCRC": 2743219111,
+            "FileHash": "a9025a2b331c0c3e44aa5438c6062b88",
+            "FileCRC": "f4521fb8",
+            "FileSize": 93364,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_popitems_meshcollider_salmon_collider.bundle",
+            "UnityCRC": 3292992987,
+            "FileHash": "c7d259acd52e2b32459553f53e54fa86",
+            "FileCRC": "1045334c",
+            "FileSize": 80339,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_popitems_meshcollider_salmon_cut.bundle",
+            "UnityCRC": 1001101945,
+            "FileHash": "9ddff1dea2897d52b7aa3c25ceb58160",
+            "FileCRC": "4ceb7b8f",
+            "FileSize": 86818,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_popitems_meshcollider_salmon_cut_collider.bundle",
+            "UnityCRC": 549209440,
+            "FileHash": "d0cecc49f18a9474a3e0c0590bcf60b5",
+            "FileCRC": "2e0c9a94",
+            "FileSize": 80434,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_popitems_meshcollider_salmon_fillet.bundle",
+            "UnityCRC": 743816616,
+            "FileHash": "b42eb5a2e47042f8b84746d5ea359915",
+            "FileCRC": "e997575e",
+            "FileSize": 84829,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_popitems_meshcollider_salmon_fillet_collider.bundle",
+            "UnityCRC": 1670503948,
+            "FileHash": "3bc2dddada69a8d6f90b7490c55cc68e",
+            "FileCRC": "23e21eee",
+            "FileSize": 80332,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_popitems_meshcollider_salmon_plastic_tray.bundle",
+            "UnityCRC": 773843108,
+            "FileHash": "0c6049778906eda24aa1a42e988612e4",
+            "FileCRC": "d6d3928c",
+            "FileSize": 18966,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": [
+                151
+            ]
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_popitems_meshcollider_salmon_plastic_tray_collider.bundle",
+            "UnityCRC": 2938004046,
+            "FileHash": "a4d0deafdc9b24a5650c4f22115639ce",
+            "FileCRC": "4d5273cb",
+            "FileSize": 80244,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_popitems_meshcollider_salmon_skeleton.bundle",
+            "UnityCRC": 3769182876,
+            "FileHash": "9163399da07de5e7fa36e818f53db45f",
+            "FileCRC": "0c5e90f0",
+            "FileSize": 101877,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_popitems_meshcollider_salmon_skeleton_collider.bundle",
+            "UnityCRC": 2020683019,
+            "FileHash": "885e2482008c1fe2b079877ff3777573",
+            "FileCRC": "3ecf0984",
+            "FileSize": 80521,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_popitems_meshcollider_skewer_c_collider.bundle",
+            "UnityCRC": 1136077346,
+            "FileHash": "e9abf48b653b13fba44114ab71440984",
+            "FileCRC": "61c43a63",
+            "FileSize": 80877,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_popitems_meshcollider_soda_bottle_glass_collider.bundle",
+            "UnityCRC": 2990681952,
+            "FileHash": "1f81c76cd94868882569a7bbd48a0d66",
+            "FileCRC": "9af9e51b",
+            "FileSize": 80554,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_popitems_meshcollider_soda_can_collider.bundle",
+            "UnityCRC": 2273090754,
+            "FileHash": "263e55d692ae5f43570dc25e9a0cf71a",
+            "FileCRC": "ad0bb85e",
+            "FileSize": 80505,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_popitems_meshcollider_sushi_wood_table_collider.bundle",
+            "UnityCRC": 962941891,
+            "FileHash": "1939c214dba5c20a39840c12a7dc053c",
+            "FileCRC": "5e0aa05c",
+            "FileSize": 80196,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_popitems_meshcollider_swirl_lollipop_collider.bundle",
+            "UnityCRC": 3462080896,
+            "FileHash": "53b4a14b515249426180b306b307792a",
+            "FileCRC": "67b1e6cc",
+            "FileSize": 80035,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_popitems_meshcollider_tamago_collider.bundle",
+            "UnityCRC": 1466731176,
+            "FileHash": "de7786fb4b447462240dbab58d67fcba",
+            "FileCRC": "e3545190",
+            "FileSize": 80402,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_popitems_meshcollider_tomato_collider.bundle",
+            "UnityCRC": 1805771461,
+            "FileHash": "b983bcda883450ea5cb841e6b29f964f",
+            "FileCRC": "438c447d",
+            "FileSize": 80623,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_popitems_meshcollider_tomato_half_collider.bundle",
+            "UnityCRC": 573165344,
+            "FileHash": "caf9b0797c1b75cbb5635183323e3a09",
+            "FileCRC": "a4e2dfa4",
+            "FileSize": 80329,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_popitems_meshcollider_tomato_quarter_collider.bundle",
+            "UnityCRC": 3246989569,
+            "FileHash": "973cd1ab9588500cdd55e4314a6f2580",
+            "FileCRC": "779c3bb7",
+            "FileSize": 80282,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_popitems_meshcollider_udon_collider.bundle",
+            "UnityCRC": 2059178908,
+            "FileHash": "a6024a764c9f0d79aa2d11031cd5181a",
+            "FileCRC": "9fe33b82",
+            "FileSize": 80688,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_popitems_meshcollider_unagi_collider.bundle",
+            "UnityCRC": 3442834879,
+            "FileHash": "48b8f15a97685dc730a732d20bb0330a",
+            "FileCRC": "7bac7f4b",
+            "FileSize": 80613,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_popitems_meshcollider_wasabi_collider.bundle",
+            "UnityCRC": 1167845332,
+            "FileHash": "cf163d6f633dce8d37e09162c0d3f660",
+            "FileCRC": "58b05ca4",
+            "FileSize": 80350,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_popitems_prefabswithcolliders_food_1.bundle",
+            "UnityCRC": 3220004027,
+            "FileHash": "f39a941aa966363200f6beea8cceaba7",
+            "FileCRC": "a1ee127c",
+            "FileSize": 4317,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": [
+                4,
+                8,
+                128,
+                147,
+                148,
+                151
+            ]
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_popitems_prefabswithcolliders_food_10.bundle",
+            "UnityCRC": 3791894533,
+            "FileHash": "fd3513c9108032c24b3eac5b76be98df",
+            "FileCRC": "7313e38d",
+            "FileSize": 4337,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": [
+                4,
+                18,
+                128,
+                147,
+                148,
+                151
+            ]
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_popitems_prefabswithcolliders_food_11.bundle",
+            "UnityCRC": 913138014,
+            "FileHash": "67252df16f6c3c4b870c156ae586f50e",
+            "FileCRC": "5f3b1bd9",
+            "FileSize": 4321,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": [
+                4,
+                19,
+                128,
+                147,
+                148,
+                151
+            ]
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_popitems_prefabswithcolliders_food_12.bundle",
+            "UnityCRC": 2157192770,
+            "FileHash": "fc987c7edcdbcd4c2a5cb1f03578dead",
+            "FileCRC": "293a9df0",
+            "FileSize": 4335,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": [
+                4,
+                20,
+                128,
+                147,
+                148,
+                151
+            ]
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_popitems_prefabswithcolliders_food_13.bundle",
+            "UnityCRC": 891501380,
+            "FileHash": "2f4d4d4d215d56c5118d74946ffa0860",
+            "FileCRC": "6a9ece33",
+            "FileSize": 4318,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": [
+                4,
+                21,
+                128,
+                147,
+                148,
+                151
+            ]
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_popitems_prefabswithcolliders_food_14.bundle",
+            "UnityCRC": 4286516325,
+            "FileHash": "4aa61dc9522b8d5337c7b626b283b549",
+            "FileCRC": "0e838224",
+            "FileSize": 4321,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": [
+                4,
+                21,
+                128,
+                147,
+                148,
+                151
+            ]
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_popitems_prefabswithcolliders_food_15.bundle",
+            "UnityCRC": 2704880298,
+            "FileHash": "bac56cf13938e915fb981a5f770541a3",
+            "FileCRC": "3cef17a9",
+            "FileSize": 4485,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": [
+                4,
+                5,
+                22,
+                23,
+                128,
+                147,
+                148,
+                151
+            ]
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_popitems_prefabswithcolliders_food_16.bundle",
+            "UnityCRC": 2366801776,
+            "FileHash": "ecbca8cb205e473695109ce6b0eda8df",
+            "FileCRC": "28330bf6",
+            "FileSize": 4322,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": [
+                4,
+                24,
+                128,
+                147,
+                148,
+                151
+            ]
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_popitems_prefabswithcolliders_food_17.bundle",
+            "UnityCRC": 2986003255,
+            "FileHash": "826226f41325de617b17e87f1708af6b",
+            "FileCRC": "a4fbbf69",
+            "FileSize": 4343,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": [
+                4,
+                25,
+                128,
+                147,
+                148,
+                151
+            ]
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_popitems_prefabswithcolliders_food_18.bundle",
+            "UnityCRC": 1220871260,
+            "FileHash": "39d5a4062ce121690456f67a0a08d4ed",
+            "FileCRC": "092c8973",
+            "FileSize": 4343,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": [
+                4,
+                26,
+                128,
+                147,
+                148,
+                151
+            ]
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_popitems_prefabswithcolliders_food_19.bundle",
+            "UnityCRC": 1344251204,
+            "FileHash": "b1122fa2d03bcf2376c1d57baf843e59",
+            "FileCRC": "ceff16c5",
+            "FileSize": 4322,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": [
+                4,
+                28,
+                128,
+                147,
+                148,
+                151
+            ]
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_popitems_prefabswithcolliders_food_2.bundle",
+            "UnityCRC": 1207213234,
+            "FileHash": "4872063d63fc30783da410eb8a0cf1cd",
+            "FileCRC": "05ddf7e0",
+            "FileSize": 4330,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": [
+                4,
+                7,
+                128,
+                147,
+                148,
+                150,
+                151
+            ]
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_popitems_prefabswithcolliders_food_20.bundle",
+            "UnityCRC": 1962697531,
+            "FileHash": "2119c060e27bf9caab8430e920a8ce57",
+            "FileCRC": "58a4fb47",
+            "FileSize": 4330,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": [
+                4,
+                28,
+                128,
+                147,
+                148,
+                151
+            ]
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_popitems_prefabswithcolliders_food_21.bundle",
+            "UnityCRC": 2375262919,
+            "FileHash": "7488d244e581df46eefb50fa68e0ddec",
+            "FileCRC": "83c57cb8",
+            "FileSize": 4334,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": [
+                4,
+                31,
+                128,
+                147,
+                148,
+                151
+            ]
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_popitems_prefabswithcolliders_food_22.bundle",
+            "UnityCRC": 2756673654,
+            "FileHash": "67f8fb6929c59995349ee08ecffa3c9e",
+            "FileCRC": "503195b5",
+            "FileSize": 4293,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": [
+                4,
+                32,
+                128,
+                147,
+                148,
+                151
+            ]
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_popitems_prefabswithcolliders_food_23.bundle",
+            "UnityCRC": 2568186006,
+            "FileHash": "28c64fea4279b9aa869639dd00c5d8e9",
+            "FileCRC": "d5cf768f",
+            "FileSize": 4326,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": [
+                4,
+                34,
+                128,
+                147,
+                148,
+                151
+            ]
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_popitems_prefabswithcolliders_food_24.bundle",
+            "UnityCRC": 211695160,
+            "FileHash": "58f297c9c0283af74e5074446ea963e3",
+            "FileCRC": "fe76651e",
+            "FileSize": 4327,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": [
+                4,
+                35,
+                128,
+                147,
+                148,
+                151
+            ]
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_popitems_prefabswithcolliders_food_25.bundle",
+            "UnityCRC": 2626242884,
+            "FileHash": "a55eab7874d97606bbedee78d6fd3ae0",
+            "FileCRC": "0fd69519",
+            "FileSize": 4319,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": [
+                4,
+                33,
+                128,
+                147,
+                148,
+                151
+            ]
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_popitems_prefabswithcolliders_food_26.bundle",
+            "UnityCRC": 783295901,
+            "FileHash": "bf4f4b8585cca94e5a96b400d96d242d",
+            "FileCRC": "3fe8d25a",
+            "FileSize": 4310,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": [
+                4,
+                37,
+                128,
+                147,
+                148,
+                151
+            ]
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_popitems_prefabswithcolliders_food_27.bundle",
+            "UnityCRC": 905383139,
+            "FileHash": "3848dd317be75d4c19b92de7381e8926",
+            "FileCRC": "ee8a4917",
+            "FileSize": 4318,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": [
+                4,
+                37,
+                128,
+                147,
+                148,
+                151
+            ]
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_popitems_prefabswithcolliders_food_28.bundle",
+            "UnityCRC": 3390428788,
+            "FileHash": "b11ad1865fa7d39e4e4913173f1d809c",
+            "FileCRC": "471011b2",
+            "FileSize": 4336,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": [
+                4,
+                38,
+                128,
+                147,
+                148,
+                151
+            ]
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_popitems_prefabswithcolliders_food_29.bundle",
+            "UnityCRC": 2741878107,
+            "FileHash": "2dd6cfcf013ef8a4464e11645d958b4f",
+            "FileCRC": "2dceacc1",
+            "FileSize": 4319,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": [
+                4,
+                36,
+                128,
+                147,
+                148,
+                151
+            ]
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_popitems_prefabswithcolliders_food_3.bundle",
+            "UnityCRC": 2984201474,
+            "FileHash": "b86d4a0ae943be8b35fd4193a9608957",
+            "FileCRC": "3bd1841c",
+            "FileSize": 4417,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": [
+                4,
+                10,
+                11,
+                128,
+                147,
+                148,
+                151
+            ]
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_popitems_prefabswithcolliders_food_30.bundle",
+            "UnityCRC": 2091442225,
+            "FileHash": "ddeb8f8f16a622be203eb6221a80fcd7",
+            "FileCRC": "c1c0301e",
+            "FileSize": 4339,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": [
+                4,
+                40,
+                128,
+                147,
+                148,
+                151
+            ]
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_popitems_prefabswithcolliders_food_31.bundle",
+            "UnityCRC": 2651554274,
+            "FileHash": "ecfdbe4a68a1790c26960c979d3727fb",
+            "FileCRC": "c42d7fab",
+            "FileSize": 4328,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": [
+                4,
+                41,
+                128,
+                147,
+                148,
+                151
+            ]
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_popitems_prefabswithcolliders_food_32.bundle",
+            "UnityCRC": 1791864355,
+            "FileHash": "0dbc1663b4f9a52d83d541bb2ada3fe3",
+            "FileCRC": "01b1394f",
+            "FileSize": 4344,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": [
+                4,
+                39,
+                128,
+                147,
+                148,
+                151
+            ]
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_popitems_prefabswithcolliders_food_33.bundle",
+            "UnityCRC": 1254989134,
+            "FileHash": "dcaa93a10b3079eab5dc2b98b0b5bfd7",
+            "FileCRC": "578c736c",
+            "FileSize": 4322,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": [
+                4,
+                42,
+                128,
+                147,
+                148,
+                151
+            ]
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_popitems_prefabswithcolliders_food_34.bundle",
+            "UnityCRC": 42665972,
+            "FileHash": "7b80127d8cd4918db187592f0d238590",
+            "FileCRC": "4685d8aa",
+            "FileSize": 4318,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": [
+                4,
+                43,
+                128,
+                147,
+                148,
+                151
+            ]
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_popitems_prefabswithcolliders_food_35.bundle",
+            "UnityCRC": 3090679741,
+            "FileHash": "0ff9a37103d17c63144759978cd0a4f5",
+            "FileCRC": "315f8b0f",
+            "FileSize": 4334,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": [
+                4,
+                44,
+                128,
+                147,
+                148,
+                151
+            ]
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_popitems_prefabswithcolliders_food_36.bundle",
+            "UnityCRC": 673248240,
+            "FileHash": "f5ce623504056c5a7a9f4fcff685383b",
+            "FileCRC": "f6f9612a",
+            "FileSize": 4311,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": [
+                4,
+                46,
+                128,
+                147,
+                148,
+                151
+            ]
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_popitems_prefabswithcolliders_food_37.bundle",
+            "UnityCRC": 4179653865,
+            "FileHash": "81b4bd028ad57b9eb590bfa2e3ccefef",
+            "FileCRC": "f78b3e18",
+            "FileSize": 4333,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": [
+                4,
+                48,
+                128,
+                147,
+                148,
+                151
+            ]
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_popitems_prefabswithcolliders_food_38.bundle",
+            "UnityCRC": 555100317,
+            "FileHash": "1c146c0327e47b0764488bd6f4ccda33",
+            "FileCRC": "048faa7a",
+            "FileSize": 4321,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": [
+                4,
+                50,
+                128,
+                147,
+                148,
+                151
+            ]
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_popitems_prefabswithcolliders_food_39.bundle",
+            "UnityCRC": 1782640751,
+            "FileHash": "ed35392d2a0e26fc9a24e27a9b553bd6",
+            "FileCRC": "05273f7e",
+            "FileSize": 4325,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": [
+                4,
+                54,
+                128,
+                147,
+                148,
+                151
+            ]
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_popitems_prefabswithcolliders_food_4.bundle",
+            "UnityCRC": 2370388540,
+            "FileHash": "8f05891804f382e7ae0cd35d3e407f68",
+            "FileCRC": "995f053a",
+            "FileSize": 4331,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": [
+                4,
+                12,
+                128,
+                147,
+                148,
+                151
+            ]
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_popitems_prefabswithcolliders_food_40.bundle",
+            "UnityCRC": 595549145,
+            "FileHash": "78dc5ec61de93c243c05a8fc6dfb4930",
+            "FileCRC": "9b9a6361",
+            "FileSize": 4325,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": [
+                4,
+                56,
+                128,
+                147,
+                148,
+                151
+            ]
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_popitems_prefabswithcolliders_food_41.bundle",
+            "UnityCRC": 2462205920,
+            "FileHash": "5be0b9b8a1aa07fe0553c7194b21d177",
+            "FileCRC": "8d555c5a",
+            "FileSize": 4411,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": [
+                4,
+                5,
+                58,
+                128,
+                147,
+                148,
+                151
+            ]
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_popitems_prefabswithcolliders_food_42.bundle",
+            "UnityCRC": 4257014948,
+            "FileHash": "6b12a03cdfaab9b5623342b59e64adb1",
+            "FileCRC": "69c999e6",
+            "FileSize": 4333,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": [
+                4,
+                60,
+                128,
+                147,
+                148,
+                151
+            ]
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_popitems_prefabswithcolliders_food_43.bundle",
+            "UnityCRC": 2410626308,
+            "FileHash": "7a295ae7cfb15a7416a38c907252ba02",
+            "FileCRC": "3b9c3f0c",
+            "FileSize": 4337,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": [
+                4,
+                52,
+                128,
+                147,
+                148,
+                151
+            ]
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_popitems_prefabswithcolliders_food_44.bundle",
+            "UnityCRC": 2361419706,
+            "FileHash": "6391438cad61675fcbd9b993e30e9de5",
+            "FileCRC": "e55d9f11",
+            "FileSize": 4321,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": [
+                4,
+                61,
+                128,
+                147,
+                148,
+                151
+            ]
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_popitems_prefabswithcolliders_food_45.bundle",
+            "UnityCRC": 3016992206,
+            "FileHash": "128fe27c225496e7a915a432448cca83",
+            "FileCRC": "6332bf20",
+            "FileSize": 4382,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": [
+                4,
+                5,
+                62,
+                128,
+                147,
+                148,
+                151
+            ]
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_popitems_prefabswithcolliders_food_46.bundle",
+            "UnityCRC": 807991117,
+            "FileHash": "7ef59406aee1c27270ba910a7fb6b434",
+            "FileCRC": "acbfe6de",
+            "FileSize": 4326,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": [
+                4,
+                63,
+                128,
+                147,
+                148,
+                151
+            ]
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_popitems_prefabswithcolliders_food_47.bundle",
+            "UnityCRC": 1640529006,
+            "FileHash": "255901210db9ab59ab7fb787d2e37ace",
+            "FileCRC": "59fefbc1",
+            "FileSize": 4333,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": [
+                4,
+                64,
+                128,
+                147,
+                148,
+                151
+            ]
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_popitems_prefabswithcolliders_food_48.bundle",
+            "UnityCRC": 3481830330,
+            "FileHash": "c5db53b41418c5e3e69f2cd9706210ef",
+            "FileCRC": "2b277174",
+            "FileSize": 4312,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": [
+                4,
+                65,
+                128,
+                147,
+                148,
+                151
+            ]
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_popitems_prefabswithcolliders_food_49.bundle",
+            "UnityCRC": 3368762509,
+            "FileHash": "bf5cf58bf50a3fcfcc9a3c434ecce943",
+            "FileCRC": "95f6d5ea",
+            "FileSize": 4321,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": [
+                4,
+                66,
+                128,
+                147,
+                148,
+                151
+            ]
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_popitems_prefabswithcolliders_food_5.bundle",
+            "UnityCRC": 1166900419,
+            "FileHash": "66a6987d660665919cfbd70b59118e40",
+            "FileCRC": "9fb17ffc",
+            "FileSize": 4330,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": [
+                4,
+                9,
+                128,
+                147,
+                148,
+                151
+            ]
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_popitems_prefabswithcolliders_food_50.bundle",
+            "UnityCRC": 2309402181,
+            "FileHash": "0b4013c0cf63bd04ab481f17a3e85d2b",
+            "FileCRC": "033cf431",
+            "FileSize": 4310,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": [
+                4,
+                68,
+                128,
+                147,
+                148,
+                151
+            ]
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_popitems_prefabswithcolliders_food_51.bundle",
+            "UnityCRC": 3908370686,
+            "FileHash": "747bad2ce97e85b4e41799e43edc0858",
+            "FileCRC": "ca57ee68",
+            "FileSize": 4308,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": [
+                4,
+                69,
+                128,
+                147,
+                148,
+                151
+            ]
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_popitems_prefabswithcolliders_food_52.bundle",
+            "UnityCRC": 3575743708,
+            "FileHash": "c87e021706c421f6422862a3ab6dc6ed",
+            "FileCRC": "d18eb890",
+            "FileSize": 4319,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": [
+                4,
+                67,
+                128,
+                147,
+                148,
+                151
+            ]
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_popitems_prefabswithcolliders_food_53.bundle",
+            "UnityCRC": 1303917549,
+            "FileHash": "8692c389a3a3b8b5123556fde62e1f4f",
+            "FileCRC": "b16d5946",
+            "FileSize": 4321,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": [
+                4,
+                70,
+                128,
+                147,
+                148,
+                151
+            ]
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_popitems_prefabswithcolliders_food_54.bundle",
+            "UnityCRC": 4192281446,
+            "FileHash": "f1dbba1a79e677c4242c0696fb87f57f",
+            "FileCRC": "660cae9a",
+            "FileSize": 4322,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": [
+                4,
+                71,
+                128,
+                147,
+                148,
+                151
+            ]
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_popitems_prefabswithcolliders_food_55.bundle",
+            "UnityCRC": 3536599474,
+            "FileHash": "0c0f67c80ed4071c61157eb149306ff6",
+            "FileCRC": "7f025eed",
+            "FileSize": 4312,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": [
+                4,
+                72,
+                128,
+                147,
+                148,
+                151
+            ]
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_popitems_prefabswithcolliders_food_6.bundle",
+            "UnityCRC": 3177826867,
+            "FileHash": "9a424b456a38d58ce516211b4e0af43b",
+            "FileCRC": "5f086af6",
+            "FileSize": 4421,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": [
+                4,
+                13,
+                14,
+                128,
+                147,
+                148,
+                151
+            ]
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_popitems_prefabswithcolliders_food_7.bundle",
+            "UnityCRC": 607443788,
+            "FileHash": "c0948a7ccb81937e134f5b00bd046c02",
+            "FileCRC": "f96430ca",
+            "FileSize": 4307,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": [
+                4,
+                15,
+                128,
+                147,
+                148,
+                151
+            ]
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_popitems_prefabswithcolliders_food_8.bundle",
+            "UnityCRC": 2996703080,
+            "FileHash": "4cda56c1aebd344e8ce71a05f277b93a",
+            "FileCRC": "e2da90a1",
+            "FileSize": 4338,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": [
+                4,
+                16,
+                128,
+                147,
+                148,
+                151
+            ]
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_popitems_prefabswithcolliders_food_9.bundle",
+            "UnityCRC": 418557368,
+            "FileHash": "e73f3000d96828f4257e42cd0ef33dc7",
+            "FileCRC": "95eb0efc",
+            "FileSize": 4331,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": [
+                4,
+                17,
+                128,
+                147,
+                148,
+                151
+            ]
+        },
+        {
+            "BundleName": "assets_assetshotupdate_game_assets_popitems_texture_texture.bundle",
+            "UnityCRC": 2909541346,
+            "FileHash": "80e00154e43088c11fe7caa728f6de1a",
+            "FileCRC": "e6745099",
+            "FileSize": 19537,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_assetshotupdate_lua.bundle",
+            "UnityCRC": 3760526721,
+            "FileHash": "212c7ce98cf12d5fd78adc475633633d",
+            "FileCRC": "73e143fe",
+            "FileSize": 23133,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_assetshotupdate_lua_aaa_init.bundle",
+            "UnityCRC": 2825948202,
+            "FileHash": "62756a70994cbaa40c3999d1ee431a05",
+            "FileCRC": "7e365bd2",
+            "FileSize": 2165,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_assetshotupdate_lua_aaa_init_cslike.bundle",
+            "UnityCRC": 2735885103,
+            "FileHash": "41d0e2170944be9eae0454bd5c3d2f40",
+            "FileCRC": "606c18d9",
+            "FileSize": 2471,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_assetshotupdate_lua_aaa_init_factory.bundle",
+            "UnityCRC": 3648332341,
+            "FileHash": "a12321a1e8d0cb485c1b8e1e3b372890",
+            "FileCRC": "3262a401",
+            "FileSize": 2261,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_assetshotupdate_lua_aaa_init_global.bundle",
+            "UnityCRC": 3179685962,
+            "FileHash": "7645ab20da3f3209ce1bab2916851e18",
+            "FileCRC": "dec2b705",
+            "FileSize": 3583,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_assetshotupdate_lua_aaa_init_ioc.bundle",
+            "UnityCRC": 3899022849,
+            "FileHash": "ccafea741220b6a9c8f4f858d2483abe",
+            "FileCRC": "12bc02c4",
+            "FileSize": 5028,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_assetshotupdate_lua_aaa_init_luabasetypeextension.bundle",
+            "UnityCRC": 1055757248,
+            "FileHash": "6ad94168fa3bc65cecc5c19c881b5204",
+            "FileCRC": "cfaf056e",
+            "FileSize": 2434,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_assetshotupdate_lua_aaa_init_profiler.bundle",
+            "UnityCRC": 2078495533,
+            "FileHash": "b64fc87ac64f345a951fc7cf2f936a03",
+            "FileCRC": "6d131f14",
+            "FileSize": 2169,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_assetshotupdate_lua_addressmap.bundle",
+            "UnityCRC": 1361700024,
+            "FileHash": "c5c8318ef406633d0209b0e87890d571",
+            "FileCRC": "e552635b",
+            "FileSize": 2847,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_assetshotupdate_lua_configs.bundle",
+            "UnityCRC": 583908026,
+            "FileHash": "2548dfe36a4cf8c97b3fb450e9d30dde",
+            "FileCRC": "ad2961db",
+            "FileSize": 1704,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_assetshotupdate_lua_gamelogic_cmcamera.bundle",
+            "UnityCRC": 3062707669,
+            "FileHash": "0a045740fa336a98a7456ee44ade9d43",
+            "FileCRC": "1b87a047",
+            "FileSize": 1574,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_assetshotupdate_lua_gamelogic_game.bundle",
+            "UnityCRC": 3477200413,
+            "FileHash": "1870c5ada709dd4bffc9fd9a1f8cbcba",
+            "FileCRC": "5d929e25",
+            "FileSize": 2648,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_assetshotupdate_lua_gamelogic_game_model.bundle",
+            "UnityCRC": 3383225539,
+            "FileHash": "345cf7e5f1b890cf381dc3889d8725b3",
+            "FileCRC": "f8572d0c",
+            "FileSize": 1744,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_assetshotupdate_lua_gamelogic_game_viewcontroller.bundle",
+            "UnityCRC": 2280140683,
+            "FileHash": "e9a10f6d122068509e1477d78d184c83",
+            "FileCRC": "cd5947d7",
+            "FileSize": 2322,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_assetshotupdate_lua_gamelogic_login.bundle",
+            "UnityCRC": 1384528322,
+            "FileHash": "9c5ec5f4c565781294d1565bf977303e",
+            "FileCRC": "b46e9cdf",
+            "FileSize": 1479,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_assetshotupdate_lua_gamelogic_login_viewcontroller.bundle",
+            "UnityCRC": 158612147,
+            "FileHash": "5f0988818f0dd591132b42a4b276391f",
+            "FileCRC": "54a49548",
+            "FileSize": 1506,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_assetshotupdate_lua_gamelogic_popitems.bundle",
+            "UnityCRC": 2981788044,
+            "FileHash": "7f3ad42ea521b4380e4ec443a88c4203",
+            "FileCRC": "fef7478c",
+            "FileSize": 1488,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_assetshotupdate_lua_gamelogic_popitems_model.bundle",
+            "UnityCRC": 169332302,
+            "FileHash": "eb57c378821531eb37b500ec77005ab0",
+            "FileCRC": "ba87d5cb",
+            "FileSize": 1670,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "assets_assetshotupdate_lua_gamelogic_popitems_view.bundle",
+            "UnityCRC": 3519049969,
+            "FileHash": "eda72ee230c2ff82820c25f642444f00",
+            "FileCRC": "3c854457",
+            "FileSize": 1537,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "share_assets_assetstest_food_pack-demo_mesh.bundle",
+            "UnityCRC": 2167447402,
+            "FileHash": "84976ff5b917fa5f4c5a8dee943c9e86",
+            "FileCRC": "bf0018e0",
+            "FileSize": 771545,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "share_assets_assetstest_ui_pack_button.bundle",
+            "UnityCRC": 3271021727,
+            "FileHash": "131e4d3cea58cc29f865310aed57e873",
+            "FileCRC": "9fce3de5",
+            "FileSize": 27440,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "share_packages_com_unity_render-pipelines_universal_runtime_materials.bundle",
+            "UnityCRC": 4146662126,
+            "FileHash": "7de8199d328c4a0eeb9b1ea541286a20",
+            "FileCRC": "5114e653",
+            "FileSize": 2972,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": [
+                151
+            ]
+        },
+        {
+            "BundleName": "unityshaders.bundle",
+            "UnityCRC": 3682384448,
+            "FileHash": "bf8969de1b9fbb99fe5c5614f7c09c39",
+            "FileCRC": "de5c834d",
+            "FileSize": 55713,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundleIDs": []
+        }
+    ]
+}
